@@ -35,16 +35,16 @@ E-mail: <szshen@nigpas.ac.cn>; <shen_shuzhong@yahoo.com>
 
 ### Annual Reports
 
-* [Annual Report 2013](http://stratigraphy.org/subcommission-permian/files/permophiles/20131201092647740.pdf)
-* [Annual Report 2012](http://stratigraphy.org/subcommission-permian/files/permophiles/20131112144419364.pdf)
-* [Annual Report 2011](http://stratigraphy.org/subcommission-permian/files/permophiles/20121113095409425.pdf)
-* [Annual Report 2010](http://stratigraphy.org/subcommission-permian/files/permophiles/20121105133100536.pdf)
-* [Annual Report 2009](http://stratigraphy.org/subcommission-permian/files/permophiles/20121023201022632.pdf)
-* [Annual Report 2008](http://stratigraphy.org/subcommission-permian/files/permophiles/20121023200946015.pdf)
-* [Annual Report 2007](http://stratigraphy.org/subcommission-permian/files/permophiles/20121023200913946.pdf)
-* [Annual Report 2006](http://stratigraphy.org/subcommission-permian/files/permophiles/20121023200826515.pdf)
-* [Annual Report 2005](http://stratigraphy.org/subcommission-permian/files/permophiles/20121023200129775.pdf)
-* [Annual Report 2004](http://stratigraphy.org/subcommission-permian/files/permophiles/20121018164338491.pdf)
+* [Annual Report 2013](http://stratigraphy.org/subcommission-permian/files/annualreports/20131201092647740.pdf)
+* [Annual Report 2012](http://stratigraphy.org/subcommission-permian/files/annualreports/20131112144419364.pdf)
+* [Annual Report 2011](http://stratigraphy.org/subcommission-permian/files/annualreports/20121113095409425.pdf)
+* [Annual Report 2010](http://stratigraphy.org/subcommission-permian/files/annualreports/20121105133100536.pdf)
+* [Annual Report 2009](http://stratigraphy.org/subcommission-permian/files/annualreports/20121023201022632.pdf)
+* [Annual Report 2008](http://stratigraphy.org/subcommission-permian/files/annualreports/20121023200946015.pdf)
+* [Annual Report 2007](http://stratigraphy.org/subcommission-permian/files/annualreports/20121023200913946.pdf)
+* [Annual Report 2006](http://stratigraphy.org/subcommission-permian/files/annualreports/20121023200826515.pdf)
+* [Annual Report 2005](http://stratigraphy.org/subcommission-permian/files/annualreports/20121023200129775.pdf)
+* [Annual Report 2004](http://stratigraphy.org/subcommission-permian/files/annualreports/20121018164338491.pdf)
 
 ### Permophiles
 
