@@ -148,12 +148,24 @@
             display: block;
         }
     </style>
+    <script>
+        var banners = [
+            "https://stratigraphy.org/subcommission-permian/images/banner-01.jpg",
+            "https://stratigraphy.org/subcommission-permian/images/banner-02.jpg",
+            "https://stratigraphy.org/subcommission-permian/images/banner-03.jpg",
+            "https://stratigraphy.org/subcommission-permian/images/banner-04.jpg",
+            "https://stratigraphy.org/subcommission-permian/images/banner-05.jpg",
+        ];
+        window.onload = function () {
+            document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())];  
+        };      
+    </script>    
 </head>
 <body>
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
-                <a href="http://stratigraphy.org"><img src="/images/logo-isc-3D-dark.png" alt="ICS logo" style="width:100px" /></a>
+                <a href="http://stratigraphy.org"><img src="https://stratigraphy.org/subcommission-permian/images/logo-isc-3D-dark.png" alt="ICS logo" style="width:100px" /></a>
             </div>
             <div id="innerheader">
                 <div id="headertxt" style="padding: 50px 20px;">
@@ -161,8 +173,9 @@
                 </div>
             </div>
         </div>
-        <div id="banner"></div>
-        <!--<div id="subcomm-age">&nbsp;</div>-->
+        <div id="banner">
+            <img id="banner-img" />
+        </div>
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">
                 {% include menu.html %}
