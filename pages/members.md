@@ -64,6 +64,11 @@ Keyworth, Nottingham NG12 5GG
 United Kingdom  
 E-mail: <mhste@bgs.ac.uk>  
 
+### Corresponding members
+If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding and email addresses to Lucia Angiolini (<lucia.angiolini@unimi.it>) or Shuzhong Shen (<szshen@nigpas.ac.cn>).
+
+* [list of SPS Corresponding Members](20190519141407795.pdf)
+
 ### Honourary members
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121031221431824.jpg" alt="" style="width:150px" />  
@@ -110,3 +115,29 @@ Geological Survey of Canada
 3303 - 33rd Street N.W.  
 Calgary Alberta T2L2A7 Canada  
 E-mail: <jutting@nrcan.gc.ca>  
+
+### Former chairmen
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121107141001354.jpg" alt="" style="width:150px" />  
+**Prof. D.L. Stepanov**  
+1978-1980  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121031222607573.jpg" alt="" style="width:150px" />  
+**Prof. Brian F. Glenister**  
+1980-1984  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027203539318.jpg" alt="" style="width:150px" />  
+**Prof. Sheng Jinzhang**  
+1984-1989  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027111701455.jpg" alt="" style="width:150px" />  
+**Prof. Jin Yugan**  
+1989-1996  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027112320244.jpg" alt="" style="width:150px" />  
+**Dr. Bruce R. Wardlaw**  
+1996-2004  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027132406387.jpg" alt="" style="width:150px" />  
+**Prof. Charles Henderson**  
+2004-2012  
