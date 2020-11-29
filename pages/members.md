@@ -63,3 +63,50 @@ Kingsley Dunham Centre
 Keyworth, Nottingham NG12 5GG  
 United Kingdom  
 E-mail: <mhste@bgs.ac.uk>  
+
+### Honourary members
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121031221431824.jpg" alt="" style="width:150px" />  
+**Prof. Giuseppe Cassinis**  
+Earth Sciences Dept.  
+via Abbiategraso N. 217  
+Pavia 27100 Italy  
+E-mail: <cassinis@unipv.it>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027202855512.jpg" alt="" style="width:150px" />  
+**Dr. Boris I. Chuvashov**  
+Institute of Geology and Geochemistry  
+Urals Baranch of the Russian Academy of Science  
+Pochtovy per 7  
+Ekaterinburg 620154 Russia  
+E-mail: <chuvashov@igg.uran.ru>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027125242783.jpg" alt="" style="width:150px" />  
+**Dr. Galina Kotlyar**  
+All-Russian Geological Research Institute  
+Sredny pr. 74  
+St. Petersburg 199026 Russia  
+E-mail: <Galina_Kotlyar@vsegei.ru>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027204210779.jpg" alt="" style="width:150px" />  
+**Prof. Ernst Ya. Leven**  
+Geological Institute  
+Russian Academy of Sciences  
+Pyjevskyi 7  
+Moscow 109017 Russia  
+E-mail: <erleven@yandex.ru>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121031221934628.jpg" alt="" style="width:150px" />  
+**Prof. Claude Spinosa**  
+Department of Geosciences  
+Boise State University  
+1910 University Drive  
+Boise ID 83725 USA  
+E-mail: <cspinosa@boisestate.edu>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027204618183.jpg" alt="" style="width:150px" />  
+**Dr. John Utting**  
+Geological Survey of Canada  
+3303 - 33rd Street N.W.  
+Calgary Alberta T2L2A7 Canada  
+E-mail: <jutting@nrcan.gc.ca>  
