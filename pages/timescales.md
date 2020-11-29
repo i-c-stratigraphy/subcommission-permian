@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Permian Timescales"
-permalink: /timescales
+permalink: /timescale
 ---
 ## Permian Timescale
 
