@@ -5,7 +5,7 @@ permalink: /officers
 ---
 ## Officers
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20120927145110835.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Angiolini Lucia.jpg" alt="" style="width:150px" />  
 **Chairman**  
 [Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)  
 Università degli Studi di Milano  
