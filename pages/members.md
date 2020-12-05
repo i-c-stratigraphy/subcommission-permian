@@ -65,9 +65,9 @@ United Kingdom
 E-mail: <mhste@bgs.ac.uk>  
 
 ### Corresponding members
-If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding and email addresses to Lucia Angiolini (<lucia.angiolini@unimi.it>) or Shuzhong Shen (<szshen@nigpas.ac.cn>).
+If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding and email addresses to Yichun Zhang (<yczhang@nigpas.ac.cn>) or Lucia Angiolini (<lucia.angiolini@unimi.it>).
 
-* [list of SPS Corresponding Members](20190519141407795.pdf)
+* [list of SPS Corresponding Members](corr members address2019.pdf)
 
 ### Honourary members
 
