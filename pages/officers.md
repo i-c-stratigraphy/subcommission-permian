@@ -23,7 +23,7 @@ British Geological Survey, Kingsley Dunham Centre
 Keyworth, Nottingham NG12 5GG 
 United Kingdom 
 Tel. 0115 936 3577 
-E-mail: mhste@bgs.ac.uk 
+E-mail: <mhste@bgs.ac.uk> 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Yichun Zhang.jpg" alt="" style="width:150px" />  
 **Secretary**
@@ -31,4 +31,4 @@ E-mail: mhste@bgs.ac.uk
 Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences 
 39 East Beijing Road, Nanjing, Jiangsu 210008, P.R.China 
 Tel. +86-25-83282137 
-E-mail: yczhang@nigpas.ac.cn 
+E-mail: <yczhang@nigpas.ac.cn> 
