@@ -35,6 +35,12 @@ E-mail: <lucia.angiolini@unimi.it>
  
 ### Annual Reports
 
+* [Annual Report 2019](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2019.pdf)
+* [Annual Report 2018](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2018.pdf)
+* [Annual Report 2017](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2017.pdf)
+* [Annual Report 2016](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2016.pdf)
+* [Annual Report 2015](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2015.pdf)
+* [Annual Report 2014](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2014.pdf)
 * [Annual Report 2013](http://stratigraphy.org/subcommission-permian/files/annualreports/20131201092647740.pdf)
 * [Annual Report 2012](http://stratigraphy.org/subcommission-permian/files/annualreports/20131112144419364.pdf)
 * [Annual Report 2011](http://stratigraphy.org/subcommission-permian/files/annualreports/20121113095409425.pdf)
