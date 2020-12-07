@@ -36,6 +36,12 @@ Museo Paleontologico Egidio Feruglio
 Trelew, Chubut, Patagonia Argentina  
 E-mail: <rcuneo@mef.org.ar>  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
+**Dr. Valeriy K. Golubev**  
+Borissiak Paleontological Institute, Russian Academy of Sciences  
+Profsoyuznaya str. 123, Moscow, 117997 Russia  
+E-mail: <vg@paleo.ru>  
+
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
 **[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
 Department of Geoscience,  
@@ -43,6 +49,20 @@ University of Calgary
 Calgary, Alberta  
 Canada T2N1N4  
 E-mail: <cmhender@ucalgary.ca>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Spencer G. Lucas.jpg" alt="" style="width:150px" />  
+**Prof. Spencer G. Lucas**  
+New Mexico Museum of Natural History and Science  
+1801 Mountain Road N. W., Albuquerque, New Mexico 87104-1375 USA  
+Tel: 505-841-2873; Fax: 505-841-2808  
+E-mail: <spencer.lucas@state.nm.us>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ronchi Ausonio.jpg" alt="" style="width:150px" />  
+**Prof. Ausonio Ronchi**  
+Dipartimento di Scienze della Terra e dell’Ambiente  
+Università di Pavia-Via Ferrata 1, 27100 PV, Italy  
+voice +39-0382-9858  
+E-mail: <ausonio.ronchi@unipv.it>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20160211091423551.jpg" alt="" style="width:150px" />  
 **Prof. Mark D. Schmitz**  
@@ -54,21 +74,6 @@ Boise, ID 83725-1535
 Tel: 208-426-5907  
 E-mail: <markschmitz@boisestate.edu>  
 <http://earth.boisestate.edu/isotope>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20160211142211787.jpg" alt="" style="width:150px" />  
-**Prof. Michael H. Stephenson**  
-British Geological Survey  
-Kingsley Dunham Centre  
-Keyworth, Nottingham NG12 5GG  
-United Kingdom  
-E-mail: <mhste@bgs.ac.uk>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ronchi Ausonio.jpg" alt="" style="width:150px" />  
-**Prof. Ausonio Ronchi**  
-Dipartimento di Scienze della Terra e dell’Ambiente  
-Università di Pavia-Via Ferrata 1, 27100 PV, Italy  
-voice +39-0382-9858  
-E-mail: <ausonio.ronchi@unipv.it>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dr. Schiappa Tamra A..jpg" alt="" style="width:150px" />  
 **Dr. Tamra A. Schiappa**  
@@ -97,24 +102,19 @@ University of Wollongong
 Northfields Ave Wollongong, NSW 2522, Australia   
 E-mail: <guang@uow.edu.au>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Spencer G. Lucas.jpg" alt="" style="width:150px" />  
-**Prof. Spencer G. Lucas**  
-New Mexico Museum of Natural History and Science  
-1801 Mountain Road N. W., Albuquerque, New Mexico 87104-1375 USA  
-Tel: 505-841-2873; Fax: 505-841-2808  
-E-mail: <spencer.lucas@state.nm.us>  
+<img src="https://stratigraphy.org/subcommission-permian/images/20160211142211787.jpg" alt="" style="width:150px" />  
+**Prof. Michael H. Stephenson**  
+British Geological Survey  
+Kingsley Dunham Centre  
+Keyworth, Nottingham NG12 5GG  
+United Kingdom  
+E-mail: <mhste@bgs.ac.uk>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ueno Katsumi.jpg" alt="" style="width:150px" />  
 **Prof. Katsumi Ueno**  
 Department of Earth System Science  
 Fukuoka University, Fukuoka 814-0180 Japan  
 E-mail: <katsumi@fukuoka.u.ac.jp>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
-**Dr. Valeriy K. Golubev**  
-Borissiak Paleontological Institute, Russian Academy of Sciences  
-Profsoyuznaya str. 123, Moscow, 117997 Russia  
-E-mail: <vg@paleo.ru>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Wang, Yue.jpg" alt="" style="width:150px" />  
 **Prof. Yue Wang**  
