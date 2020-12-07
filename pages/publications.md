@@ -60,7 +60,7 @@ E-mail: <lucia.angiolini@unimi.it>
     }
 </style>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-<a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20200204001438566.pdf"><img src="http://stratigraphy.org/subcommission-permian/files/permophiles/20200204001327846.jpg" alt="permophile thumbnail" /></a>Permophiles #68
+<a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20200204001438566.pdf"><img src="http://stratigraphy.org/subcommission-permian/files/permophiles/20200204001327846.jpg" alt="permophile thumbnail" /></a>
 <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20190430111455900.pdf"><img src="http://stratigraphy.org/subcommission-permian/files/permophiles/20190430111359644.jpg" alt="permophile thumbnail" /></a>
 <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20180828212711700.pdf"><img src="http://stratigraphy.org/subcommission-permian/files/permophiles/20180828212634511.jpg" alt="permophile thumbnail" /></a>
 <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20180825094514307.pdf"><img src="http://stratigraphy.org/subcommission-permian/files/permophiles/20180825094441693.jpg" alt="permophile thumbnail" /></a>
