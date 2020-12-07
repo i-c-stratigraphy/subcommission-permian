@@ -18,7 +18,7 @@ E-mail: <lucia.angiolini@unimi.it>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Michael H. Stephenson.jpg" alt="" style="width:150px" />  
 **Vice Chairman**  
-[Prof. Michael H. Stephenson](http://www.tetrapods.co.uk/staff/profiles/3109.html)   
+[Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)   
 British Geological Survey, Kingsley Dunham Centre   
 Keyworth, Nottingham NG12 5GG  
 United Kingdom  
