@@ -12,8 +12,8 @@ The Permian Subcommission publishes _Annual Reports_ and the _permophiles_ newsl
  
 Do you have a short news item, a notice, a report, comments and replies or research articles that you would like publish in the latest issue of the Permophiles? Is there a meeting you would like everyone to know about? Please send your contribution to (see template for Permophiles):
  
- **Prof. Yichun Zhang** 
- _Secretary of SPS_ 
+ **Prof. Yichun Zhang**  
+ _Secretary of SPS_  
 State Key Laboratory of Palaeobiology and Stratigraphy  
 Nanjing Institute of Geology and Palaeontology  
 Chinese Academy of Sciences  
