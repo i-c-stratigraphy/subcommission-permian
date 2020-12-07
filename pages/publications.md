@@ -12,8 +12,19 @@ The Permian Subcommission publishes _Annual Reports_ and the _permophiles_ newsl
  
 Do you have a short news item, a notice, a report, comments and replies or research articles that you would like publish in the latest issue of the Permophiles? Is there a meeting you would like everyone to know about? Please send your contribution to (see template for Permophiles):
  
+ **Prof. Yichun Zhang** 
+ _Secretary of SPS_ 
+State Key Laboratory of Palaeobiology and Stratigraphy  
+Nanjing Institute of Geology and Palaeontology  
+Chinese Academy of Sciences  
+39 East Beijing Road, Nanjing, Jiangsu 210008, P.R. China  
+Tel:+86-25-83282137  
+E-mail: <yczhang@nigpas.ac.cn>   
+ 
+ or
+ 
 **Prof. Lucia Angiolini**  
-_Secretary of SPS_  
+_Chairman_  
 Università degli Studi di Milano  
 Dipartimento di Scienze della Terra "A. Desio"  
 Via Mangiagalli 34  
@@ -22,17 +33,6 @@ Tel. +39-02-50315513
 Fax. +39-02-50315494  
 E-mail: <lucia.angiolini@unimi.it>  
  
-or
-
-**Dr Shuzhong Shen**  
-State Key Laboratory of Palaeobiology and Stratigraphy  
-Nanjing Institute of Geology and Palaeontology  
-Chinese Academy of Sciences  
-39 East Beijing Road, Nanjing, Jiangsu 210008, P.R. China  
-Tel/Fax:+86-25-83282131  
-E-mail: <szshen@nigpas.ac.cn>; <shen_shuzhong@yahoo.com>  
-
-
 ### Annual Reports
 
 * [Annual Report 2013](http://stratigraphy.org/subcommission-permian/files/annualreports/20131201092647740.pdf)
