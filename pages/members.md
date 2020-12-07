@@ -103,7 +103,7 @@ Northfields Ave Wollongong, NSW 2522, Australia
 E-mail: <guang@uow.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20160211142211787.jpg" alt="" style="width:150px" />  
-**Prof. Michael H. Stephenson**  
+**[Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)**  
 British Geological Survey  
 Kingsley Dunham Centre  
 Keyworth, Nottingham NG12 5GG  
