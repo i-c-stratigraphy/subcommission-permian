@@ -110,6 +110,12 @@ Department of Earth System Science
 Fukuoka University, Fukuoka 814-0180 Japan  
 E-mail: <katsumi@fukuoka.u.ac.jp>  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
+**Dr. Valeriy K. Golubev**  
+Borissiak Paleontological Institute, Russian Academy of Sciences  
+Profsoyuznaya str. 123, Moscow, 117997 Russia  
+E-mail: <vg@paleo.ru>  
+
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Wang, Yue.jpg" alt="" style="width:150px" />  
 **Prof. Yue Wang**  
 Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences  
