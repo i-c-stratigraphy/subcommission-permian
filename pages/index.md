@@ -13,19 +13,13 @@ The Permian System has been subdivided into three series. They are the Cisuralia
 Permian marine deposits are rich in fossil brachiopods, fusulinids, conodonts and ammonoids. Conodonts and fusulinids are the two major fossil groups for correlation between different regions. Brachiopods, ammonoids, mollusks and corals are also very useful for identifying Permian strata and reconstructing palaeogeography and palaeobiogeography at that time.
 
 ### Contact Us
-**Prof. Lucia Angiolini**  
-Università degli Studi di Milano  
-Dipartimento di Scienze della Terra "A. Desio"  
-Via Mangiagalli 34  
-20133 MILANO Italy  
-  
-Tel. +39-02-50315513  
-Fax  +39-02-50315494  
-E-mail: <lucia.angiolini@unimi.it>  
-
-
+**Prof. Yichun Zhang**  
+Nanjing Institite of Geology and Palaeontology, Chinese Academy of Sciences
+Nanjing 210008, Jiangsu, P.R.China  
+Tel. +86-25-83282137 
+E-mail: <yczhang@nigpas.ac.cn>  
 
 ### Join Us
-If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding  and email addresses to <lucia.angiolini@unimi.it> or <szshen@nigpas.ac.cn>
+If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding  and email addresses to <yczhang@nigpas.ac.cn> or <lucia.angiolini@unimi.it> 
 
 <img src="http://stratigraphy.org/subcommission-permian/images/chart.jpg" alt="Permain Chart" style="width:100%" />
