@@ -60,6 +60,10 @@ E-mail: <lucia.angiolini@unimi.it>
     }
 </style>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+ <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/Permophiles 69-2020-11.pdf">
+    <img src="http://stratigraphy.org/subcommission-permian/files/issue 69.jpg" alt="permophile thumbnail" /><br />
+    <span style="font-size:small;">Permophiles issue #69</span>
+</a> 
 <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20200204001438566.pdf">
     <img src="http://stratigraphy.org/subcommission-permian/files/permophiles/20200204001327846.jpg" alt="permophile thumbnail" /><br />
     <span style="font-size:small;">Permophiles issue #68</span>
