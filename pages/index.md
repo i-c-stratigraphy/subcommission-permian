@@ -14,9 +14,9 @@ Permian marine deposits are rich in fossil brachiopods, fusulinids, conodonts an
 
 ### Contact Us
 **Prof. Yichun Zhang**  
-Nanjing Institite of Geology and Palaeontology, Chinese Academy of Sciences
+Nanjing Institite of Geology and Palaeontology, Chinese Academy of Sciences  
 Nanjing 210008, Jiangsu, P.R.China  
-Tel. +86-25-83282137 
+Tel. +86-25-83282137  
 E-mail: <yczhang@nigpas.ac.cn>  
 
 ### Join Us
