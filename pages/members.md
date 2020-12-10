@@ -133,7 +133,7 @@ If you would like to join in SPS corresponding member and receive SPS Newsletter
 
 * [list of SPS Corresponding Members](corr members address2019.pdf)
 
-### Honourary members
+### Honorary members
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121031221431824.jpg" alt="" style="width:150px" />  
 **Prof. Giuseppe Cassinis**  
@@ -172,13 +172,6 @@ Boise State University
 1910 University Drive  
 Boise ID 83725 USA  
 E-mail: <cspinosa@boisestate.edu>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027204618183.jpg" alt="" style="width:150px" />  
-**Dr. John Utting**  
-Geological Survey of Canada  
-3303 - 33rd Street N.W.  
-Calgary Alberta T2L2A7 Canada  
-E-mail: <jutting@nrcan.gc.ca>  
 
 ### Former chairmen
 
