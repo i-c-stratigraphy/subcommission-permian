@@ -20,4 +20,4 @@ E-mail: <yczhang@nigpas.ac.cn>
 ### Join Us
 If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding  and email addresses to <yczhang@nigpas.ac.cn> or <lucia.angiolini@unimi.it> 
 
-<img src="http://stratigraphy.org/subcommission-permian/images/chart.jpg" alt="Permain Chart" style="width:100%" />
+
