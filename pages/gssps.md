@@ -35,7 +35,7 @@ permalink: /gssps
         <td>base of Bed 4a-2, 88 cm above the base of the Changxing Limestone at the Meishan D Section</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121103101354529.jpg">FAD of Clarkina wangi</a></td>
         <td>Ratified 2005</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/20121027214208316.pdf">Episodes 29/3, p. 175-182, 2006</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/base Changhsingian.pdf">Episodes 29/3, p. 175-182, 2006</a></td>
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/wuchiapingian-stage">Wuchiapingian Stage</a></td>
@@ -45,7 +45,7 @@ permalink: /gssps
         <td>base of Bed 6k in the Penglaitan Section</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121023220414005.jpg">FAD of Clarkina postbitteri postbitteri</a></td>
         <td>Ratified 2004</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/20121008161045973.pdf">Episodes 29/4, p. 253-262, 2006</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/base Wuchiapingian.pdf">Episodes 29/4, p. 253-262, 2006</a></td>
     </tr>    
     <tr bgcolor="#cdcd00">
         <td colspan="8" bgcolor="#D2E6F0"><strong>Guadalupian Series</strong></td>
@@ -58,7 +58,7 @@ permalink: /gssps
         <td>4.5m above the base of the outcrop section of the Pinery Limestone Member of the Bell Canyon Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121103194210859.jpg" title="_Jinogondolella postserrata_ (Behnken) from the Glass Mountains. The first occurrence of this species is defined as the base of the Capitanian Stage (after Wardlaw, 2000, The Guadalupian Syposium)">FAD of Jinogondolella postserrata</a></td>
         <td>Ratified 2001</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/20121101191818481.pdf">Glenister et al., 1999, Permophiles</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Roadian-Capitanian.pdf">Glenister et al., 1999, Permophiles</a></td>
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
@@ -68,7 +68,7 @@ permalink: /gssps
         <td>7.6m above the base of the Getaway Ledge outcrop Section of the Getaway Limestone Member of the Cherry Canyon Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121103194924165.jpg" title="Jinogondolella aserrata (Clark and Behnken) from the Glass Mountains. The first occurrence of this species has been defined as the base of the Wordian Stage (after Wardlaw, 2000)">FAD of Jinogondolella aserrata</a></td>
         <td>Ratified 2001</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/20121101191818481.pdf">Glenister et al., 1999, Permophiles</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Roadian-Capitanian.pdf">Glenister et al., 1999, Permophiles</a></td>
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/roadian-stage">Roadian Stage</a></td>
@@ -78,7 +78,7 @@ permalink: /gssps
         <td>42.7m above the base of the Cutoff Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121101164240566.jpg" title="_Jinogondolella nankingensis_">Conodont FAD Jinogondolella nankingensis</a></td>
         <td>Ratified 2001</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/20121101191818481.pdf">Glenister et al.1999, Permophiles</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Roadian-Capitanian.pdf">Glenister et al.1999, Permophiles</a></td>
     </tr>
     <tr bgcolor="#cdcd00">
         <td colspan="8" bgcolor="#D2E6F0"><strong>Cisuralian Series</strong></td>
@@ -91,7 +91,7 @@ permalink: /gssps
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102164648661.jpg" title="A: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur and Movshovitsch Chernykh from the Rockland Section in Pequop Moutains, Neveda, USA. 1-7, Neostreptognathodus penvi; 8-13, mostly transitional; 14-19, Neostreptognathodus pequopensis Behnken
 B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur et Movshovitsch Chernykh from the Mechetlino Section in southern Urals, Russia. 1 - Neostreptognathodus pequopensis, from bed 4; 2 - transitional from N. pequopensis to N. pnevi, from bed 9; 3 – N. pnevi, from bed 9.">Conodont FAD Neostrep- tognathodus pnevi</a></td>
-        <td>Anticipated 2013</td>
+        <td></td>
         <td></td>
     </tr>    
     <tr bordercolor="#cccccc">
@@ -101,7 +101,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg">53.8886°N, 56.5161°E</a></td>
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121116193633896.jpg" title="Sweetognathus whitei (Rhodes) from Bed 4 at Dalny Tulkas (after Chernyk, 2006)">Conodont FAD Sweetognathus whitei</a></td>
-        <td>Anticipated 2013</td>
+        <td></td>
         <td></td>
     </tr>    
     <tr bordercolor="#cccccc">
@@ -110,9 +110,9 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194719963.jpg">candidate is at Usolka, Orenburg Province, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221421013.jpg">53.9247°N,  53.9247°E</a></td>
         <td></td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121116195830379.jpg" title="Mesogondolella uralensis (Chernyk) from the Usolka section (Chernyk, 2006)">Conodont FAD Meosogondolella uralensis</a></td>
-        <td>Anticipated 2013</td>
-        <td></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/M.monstra.JPG" title="Mesogondolella monstra Chernyk from the Usolka section (Chernyk, 2020)">Conodont FAD Mesogondolella monstra</a></td>
+        <td>Ratified 2018</td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/base Sakmarian.pdf">Episodes 43/4, p. 961-979, 2020</a></td>
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/asselian-stage">Asselian Stage</a></td>
@@ -122,7 +122,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td>27m above the base of Bed 19, Aidaralash Creek</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121106095252405.png">Conodont FAD of isolated-nodular morphotype of Streptognathodus </a></td>
         <td>Ratified 1996</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/20121027201021967.pdf">Episodes 21/1, p. 11-18, 1998</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Asselian.pdf">Episodes 21/1, p. 11-18, 1998</a></td>
     </tr>
     </tbody>
 </table>
