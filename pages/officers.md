@@ -5,7 +5,7 @@ permalink: /officers
 ---
 ## Officers
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Angiolini Lucia.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Lucia new photo.jpg" alt="" style="width:150px" />  
 **Chair**   
 [Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)  
 Università degli Studi di Milano  
@@ -16,7 +16,7 @@ Tel. 39-02-50315513
 Fax  39-02-50315494  
 E-mail: <lucia.angiolini@unimi.it>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Michael H. Stephenson.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
 **Vice Chair**  
 [Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)   
 British Geological Survey, Kingsley Dunham Centre   
