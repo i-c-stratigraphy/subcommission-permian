@@ -7,7 +7,7 @@ permalink: /members
 
 ### Voting members
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20120927145110835.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Lucia new photo.jpg" alt="" style="width:150px" />  
 **[Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)**  
 Dipartimento di Scienze Terra “A. DEsio”  
 Via Manggiagalli 34, 20133  
@@ -102,7 +102,7 @@ University of Wollongong
 Northfields Ave Wollongong, NSW 2522, Australia   
 E-mail: <guang@uow.edu.au>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20160211142211787.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
 **[Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)**  
 British Geological Survey  
 Kingsley Dunham Centre  
@@ -173,33 +173,33 @@ Boise State University
 Boise ID 83725 USA  
 E-mail: <cspinosa@boisestate.edu>  
 
-### Former chairmen
+### Former Chairs
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20121107141001354.jpg" alt="" style="width:150px" />  
-**Prof. D.L. Stepanov**  
-1978-1980  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20121031222607573.jpg" alt="" style="width:150px" />  
-**Prof. Brian F. Glenister**  
-1980-1984  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027203539318.jpg" alt="" style="width:150px" />  
-**Prof. Sheng Jinzhang**  
-1984-1989  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027111701455.jpg" alt="" style="width:150px" />  
-**Prof. Jin Yugan**  
-1989-1996  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027112320244.jpg" alt="" style="width:150px" />  
-**Dr. Bruce R. Wardlaw**  
-1996-2004  
+<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
+**Prof. Shuzhong Shen**  
+2012-2020
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027132406387.jpg" alt="" style="width:150px" />  
 **Prof. Charles Henderson**  
 2004-2012  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
-**Prof. Shuzhong Shen**  
-2012-2020
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027112320244.jpg" alt="" style="width:150px" />  
+**Dr. Bruce R. Wardlaw**  
+1996-2004  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027111701455.jpg" alt="" style="width:150px" />  
+**Prof. Jin Yugan**  
+1989-1996  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027203539318.jpg" alt="" style="width:150px" />  
+**Prof. Sheng Jinzhang**  
+1984-1989  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121031222607573.jpg" alt="" style="width:150px" />  
+**Prof. Brian F. Glenister**  
+1980-1984  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121107141001354.jpg" alt="" style="width:150px" />  
+**Prof. D.L. Stepanov**  
+1978-1980  
 
