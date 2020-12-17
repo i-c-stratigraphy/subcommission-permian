@@ -60,6 +60,13 @@ The Kungurian Working Group is mainly working on the definition for the Kunguria
 
 <a id="sakmarian"></a>
 ### Sakmarian-base and Artinskian-base GSSP Working Group 
-The Sakmarian-base and Artinskian-base GSSP Working Group mainly focuses on the definition of the base of the Sakmarian Stage and the base of the Artinskian Stage  based on certain fossil group as well as chemostratigraphy, magnetostratigraphy and other potential marks useful for global correlation. Its recent work is mainly working the candidate of the Sakmarian-base GSSP at Usolka, and the candidate of Artinskian-base GSSP at Dalny Tukas in  southern Urals, Russia. The original proposal to use the Kondolovsky section for the Sakmarian-base GSSP candidate by Chovashov et al. (2002) has been abandaned because the FAD conodont species Sweetognathus merrilli was not confirmed by subsequent studies. This working group is currently led by Dr. Valery Chernyk and Vladimir Davydov.
+
+A section of carbonate mudstone deposits on the right bank of the Usolka River, located near the health resort Krasnousol’sky (Russia, Urals, Bashkortostan) is well known to stratigraphers from the time of the International Congress “Permian System of the World” in 1991. It served as a potential site for developing the boundary between the Carboniferous and Permian systems on the basis of conodonts and it can be used as an auxiliary section for determining this boundary.
+
+The Usolka section is herein also proposed by us as the Global Stratotype Section and Point (GSSP) for the base of the Sakmarian Stage for the International Permian Time Scale.
+
+GSSP of the base of Sakmarian has been ratified by ICS July 21, 2018. The GSSP monument established at the Usolka section in 2019.
+
+The article by Valery V. Chernykh, Boris I. Chuvashov, Shu-Zhong Shen, Charles M. Henderson, Dong-Xun Yuan, and Michael H. Stephenson (2020) The Global Stratotype Section and Point (GSSP) for the base Sakmarian Stage (Cisuralian, Lower Permian) published in in the December issue of the magazine Episodes, Vol. 43, No. 4, p. 961-979.
 
 * [members of the Sakmarian-base GSSP Working Group](https://stratigraphy.org/subcommission-permian/files/20121018162043662.pdf)
