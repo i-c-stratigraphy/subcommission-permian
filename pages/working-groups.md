@@ -67,7 +67,6 @@ The Usolka section is herein also proposed by us as the Global Stratotype Sectio
 
 GSSP of the base of Sakmarian has been ratified by ICS July 21, 2018. The GSSP monument established at the Usolka section in 2019.
 
-The article by Valery V. Chernykh, Boris I. Chuvashov, Shu-Zhong Shen, Charles M. Henderson, Dong-Xun Yuan, and Michael H. Stephenson (2020) The Global Stratotype Section and Point (GSSP) for the base Sakmarian Stage (Cisuralian, Lower Permian) published in in the December issue of the magazine Episodes, Vol. 43, No. 4, p. 961-979.
-<a href="https://stratigraphy.org/subcommission-permian/files/base Sakmarian.pdf">Episodes 43/4, p. 961-979, 2020</a></td>
+The article by Valery V. Chernykh, Boris I. Chuvashov, Shu-Zhong Shen, Charles M. Henderson, Dong-Xun Yuan, and Michael H. Stephenson (2020) The Global Stratotype Section and Point (GSSP) for the base Sakmarian Stage (Cisuralian, Lower Permian) published in in the December issue of the magazine Episodes, <a href="https://stratigraphy.org/subcommission-permian/files/base Sakmarian.pdf">Vol. 43, No. 4, p. 961-979.</a>
 
 * [members of the Sakmarian-base GSSP Working Group](https://stratigraphy.org/subcommission-permian/files/20121018162043662.pdf)
