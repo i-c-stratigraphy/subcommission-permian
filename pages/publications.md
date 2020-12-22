@@ -24,7 +24,7 @@ E-mail: <yczhang@nigpas.ac.cn>
  or
  
 **Prof. Lucia Angiolini**  
-_Chairman_  
+_Chair_  
 Università degli Studi di Milano  
 Dipartimento di Scienze della Terra "A. Desio"  
 Via Mangiagalli 34  
