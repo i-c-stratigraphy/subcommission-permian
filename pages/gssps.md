@@ -123,6 +123,4 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121106095252405.png">Conodont FAD of isolated-nodular morphotype of Streptognathodus </a></td>
         <td>Ratified 1996</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Asselian.pdf">Episodes 21/1, p. 11-18, 1998</a></td>
-    </tr>
-    </tbody>
-</table>
+
