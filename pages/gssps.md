@@ -29,7 +29,7 @@ permalink: /gssps
     </tr>
     <tr bordercolor="#cccccc">
         <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/changhsingian-stage">Changhsingian Stage</a></td>
-        <td>PTB=252.17±0.06, WCB=254.14±0.07Ma</td>
+        <td>PTB=251.902±0.024, WCB=254.14±0.07Ma</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027201232593.jpg">Meishan D, Zhejiang Province, China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220726946.jpg">31.0819°N 119.7064°E</a></td>
         <td>base of Bed 4a-2, 88 cm above the base of the Changxing Limestone at the Meishan D Section</td>
@@ -39,7 +39,7 @@ permalink: /gssps
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/wuchiapingian-stage">Wuchiapingian Stage</a></td>
-        <td>259.0 ± 0.4</td>
+        <td>259.1 ± 0.5</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20120927153523606.jpg">Penglaitan, Guangxi Province, South China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220912686.jpg">23.6953°N 109.3211°E</a></td>
         <td>base of Bed 6k in the Penglaitan Section</td>
@@ -52,7 +52,7 @@ permalink: /gssps
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/capitanian-stage">Capitanian Stage</a></td>
-        <td>265.1 ± 0.4</td>
+        <td>264.28 ± 0.16</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027191015920.jpg">Nipple Hill, SE Guadalupe Mountains, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220950163.jpg">31.9091°N 104.7892°W</a></td>
         <td>4.5m above the base of the outcrop section of the Pinery Limestone Member of the Bell Canyon Formation</td>
@@ -62,7 +62,7 @@ permalink: /gssps
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
-        <td>268.8± 0.5</td>
+        <td>266.9</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200142129.jpg">Guadalupe Pass, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221023791.jpg">31.8658°N 104.8328°W</a></td>
         <td>7.6m above the base of the Getaway Ledge outcrop Section of the Getaway Limestone Member of the Cherry Canyon Formation</td>
@@ -72,7 +72,7 @@ permalink: /gssps
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/roadian-stage">Roadian Stage</a></td>
-        <td>272.3 ± 0.5</td>
+        <td>273.14 ± 0.13</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200214942.jpg">Stratotype Canyon, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221056425.jpg">31.8767°N 104.8768°W</a></td>
         <td>42.7m above the base of the Cutoff Formation</td>
@@ -85,7 +85,7 @@ permalink: /gssps
     </tr>
     <tr bordercolor="#cccccc">
         <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/kungurian-stage">Kungurian Stage</a></td>
-        <td>283.5 ± 0.1</td>
+        <td>
         <td>candidates are in southern Ural Mtns or Rockland, Nevada, USA.</td>
         <td></td>
         <td></td>
@@ -96,7 +96,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/artinskian-stage">Artinskian Stage</a></td>
-        <td>290.1 ± 0.26</td>
+        <td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">candidate is at Dalny Tulkas in southern Ural Mts.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg">53.8886°N, 56.5161°E</a></td>
         <td></td>
@@ -106,7 +106,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/sakmarian-stage">Sakmarian Stage</a></td>
-        <td>295.0± 0.18</td>
+        <td>293.52± 0.17</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194719963.jpg">candidate is at Usolka, Orenburg Province, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221421013.jpg">53.9247°N,  53.9247°E</a></td>
         <td></td>
@@ -116,7 +116,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
     </tr>    
     <tr bordercolor="#cccccc">
         <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/asselian-stage">Asselian Stage</a></td>
-        <td>298.7 ± 0.15</td>
+        <td>298.9 ± 0.15</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121101141806829.jpg">Aidaralash Creek, Kazakhstan</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221720190.jpg">50.2458°N 57.8914°E</a></td>
         <td>27m above the base of Bed 19, Aidaralash Creek</td>
