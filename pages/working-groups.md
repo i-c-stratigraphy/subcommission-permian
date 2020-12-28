@@ -36,6 +36,11 @@ Leader: Prof. Joerg Schneider
 
 
 
+
+
+
+
+
 <img src="https://stratigraphy.org/subcommission-permian/images/PTB.jpg" alt="" style="width:600px" />  
 The Chair of the SPS, Shuzong Shen, and his Vice-Chair, Joerg W. Schneider, in 2014 at the continental Permian-Triassic boundary in Central Europe, Caaschwitz quarry in Thuringia, East Germany. 
 
