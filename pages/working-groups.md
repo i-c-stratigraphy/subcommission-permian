@@ -25,33 +25,6 @@ Leader: Prof. Joerg Schneider
     To promote progress in nonma¬rine-marine correlations a call for global cooperation in the correlation of the most important and well investigated continental and mixed marine-continental basins will be published in the next issue of Permophiles. The aim will be to extend the correlation chart of Figure 3 in Schneider et al. (2020a) to a nearly global scale. This is the only way to understand abiotic and biotic processes in the coupled marine-continental system on Earth as demonstrated here in Fig. 2, which only applies thus far to the Euramerican region of the paleo-equatorial belt. We need a much wider global view...
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="https://stratigraphy.org/subcommission-permian/images/PTB.jpg" alt="" style="width:600px" />  
 The Chair of the SPS, Shuzong Shen, and his Vice-Chair, Joerg W. Schneider, in 2014 at the continental Permian-Triassic boundary in Central Europe, Caaschwitz quarry in Thuringia, East Germany. 
 
