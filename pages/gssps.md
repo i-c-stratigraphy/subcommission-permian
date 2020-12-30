@@ -109,7 +109,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td>293.52± 0.17</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194719963.jpg">Usolka, Southern Urals Mts, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221421013.jpg">53.9247°N,  53.9247°E</a></td>
-        <td></td>
+        <td></td>Bed 26/3</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/M.monstra.JPG" title="Mesogondolella monstra Chernyk from the Usolka section (Chernyk, 2020)">Conodont FAD Mesogondolella monstra</a></td>
         <td>Ratified 2018</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/base Sakmarian.pdf">Episodes 43/4, p. 961-979, 2020</a></td>
