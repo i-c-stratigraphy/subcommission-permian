@@ -11,7 +11,7 @@ permalink: /gssps
 </style>
 <table cellpadding="5" width="640">
     <tbody>
-    <tr bgcolor="#D2E6F0">
+    <tr style="background-color:#D2E6F0;">
         <td><strong>Stage</strong></td>
         <td><strong>Age (Ma) CGTS 2008</strong></td>
         <td><strong>GSSP Location</strong></td>
@@ -21,14 +21,14 @@ permalink: /gssps
         <td><strong>Status</strong></td>
         <td><strong>Reference</strong></td>
     </tr>
-    <tr bgcolor="#ff7f24">
-        <td colspan="8" bgcolor="#569EC6"><strong>Permian System</strong></td>
+    <tr style="background-color:#ff7f24;">
+        <td colspan="8" style="background-color:#569EC6;"><strong>Permian System</strong></td>
     </tr>
-    <tr bgcolor="#cdcd00">
-        <td colspan="8" bgcolor="#D2E6F0"><strong>Lopingian Series</strong></td>
+    <tr style="background-color:#cdcd00;">
+        <td colspan="8" style="background-color:#D2E6F0;"><strong>Lopingian Series</strong></td>
     </tr>
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/changhsingian-stage">Changhsingian Stage</a></td>
+    <tr>
+        <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/changhsingian-stage">Changhsingian Stage</a></td>
         <td>PTB=251.902±0.024, WCB=254.14±0.07Ma</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027201232593.jpg">Meishan D, Zhejiang Province, China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220726946.jpg">31.0819°N 119.7064°E</a></td>
@@ -37,8 +37,8 @@ permalink: /gssps
         <td>Ratified 2005</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/base Changhsingian.pdf">Episodes 29/3, p. 175-182, 2006</a></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/wuchiapingian-stage">Wuchiapingian Stage</a></td>
+    <tr>
+        <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wuchiapingian-stage">Wuchiapingian Stage</a></td>
         <td>259.1 ± 0.5</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20120927153523606.jpg">Penglaitan, Guangxi Province, South China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220912686.jpg">23.6953°N 109.3211°E</a></td>
@@ -47,11 +47,11 @@ permalink: /gssps
         <td>Ratified 2004</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/base Wuchiapingian.pdf">Episodes 29/4, p. 253-262, 2006</a></td>
     </tr>    
-    <tr bgcolor="#cdcd00">
-        <td colspan="8" bgcolor="#D2E6F0"><strong>Guadalupian Series</strong></td>
+    <tr style="background-color:#cdcd00;">
+        <td colspan="8" style="background-color:#D2E6F0;"><strong>Guadalupian Series</strong></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/capitanian-stage">Capitanian Stage</a></td>
+    <tr>
+        <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/capitanian-stage">Capitanian Stage</a></td>
         <td>264.28 ± 0.16</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027191015920.jpg">Nipple Hill, SE Guadalupe Mountains, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220950163.jpg">31.9091°N 104.7892°W</a></td>
@@ -60,8 +60,8 @@ permalink: /gssps
         <td>Ratified 2001</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Roadian-Capitanian.pdf">Glenister et al., 1999, Permophiles</a></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
+    <tr>
+        <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
         <td>266.9</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200142129.jpg">Guadalupe Pass, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221023791.jpg">31.8658°N 104.8328°W</a></td>
@@ -70,8 +70,8 @@ permalink: /gssps
         <td>Ratified 2001</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Roadian-Capitanian.pdf">Glenister et al., 1999, Permophiles</a></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/roadian-stage">Roadian Stage</a></td>
+    <tr>
+        <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/roadian-stage">Roadian Stage</a></td>
         <td>273.14 ± 0.13</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200214942.jpg">Stratotype Canyon, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221056425.jpg">31.8767°N 104.8768°W</a></td>
@@ -80,12 +80,12 @@ permalink: /gssps
         <td>Ratified 2001</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Roadian-Capitanian.pdf">Glenister et al.1999, Permophiles</a></td>
     </tr>
-    <tr bgcolor="#cdcd00">
-        <td colspan="8" bgcolor="#D2E6F0"><strong>Cisuralian Series</strong></td>
+    <tr style="background-color:#cdcd00;">
+        <td colspan="8" style="background-color:#D2E6F0;"><strong>Cisuralian Series</strong></td>
     </tr>
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/kungurian-stage">Kungurian Stage</a></td>
-        <td>
+    <tr>
+        <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/kungurian-stage">Kungurian Stage</a></td>
+        <td></td>
         <td>Candidate is at Mechetlino, southern Ural Mtns</td>
         <td></td>
         <td></td>
@@ -94,9 +94,9 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td></td>
         <td></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/artinskian-stage">Artinskian Stage</a></td>
-        <td>
+    <tr>
+        <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/artinskian-stage">Artinskian Stage</a></td>
+        <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">candidate is at Dalny Tulkas in southern Ural Mts.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg"></a></td>
         <td></td>
@@ -104,8 +104,8 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td></td>
         <td></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#58A0C8"><a href="https://stratigraphy.org/subcommission-permian/gssps/sakmarian-stage">Sakmarian Stage</a></td>
+    <tr>
+        <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/sakmarian-stage">Sakmarian Stage</a></td>
         <td>293.52± 0.17</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194719963.jpg">Usolka, Southern Urals Mts, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221421013.jpg">53.9247°N,  53.9247°E</a></td>
@@ -114,8 +114,8 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td>Ratified 2018</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/base Sakmarian.pdf">Episodes 43/4, p. 961-979, 2020</a></td>
     </tr>    
-    <tr bordercolor="#cccccc">
-        <td bgcolor="#A4CCE1"><a href="https://stratigraphy.org/subcommission-permian/gssps/asselian-stage">Asselian Stage</a></td>
+    <tr>
+        <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/asselian-stage">Asselian Stage</a></td>
         <td>298.9 ± 0.15</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121101141806829.jpg">Aidaralash Creek, Kazakhstan</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221720190.jpg">50.2458°N 57.8914°E</a></td>
