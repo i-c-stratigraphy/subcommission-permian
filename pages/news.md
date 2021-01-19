@@ -4,7 +4,7 @@ title: "News"
 permalink: /news
 ---
 ## News
-* [Voting members webinar held on 22 October, 2020](http://stratigraphy.org/subcommission-permian/news/2020-10-22) [ 2020-10-22 ]
+* [Voting members webinar held on 22 October, 2020](http://stratigraphy.org/subcommission-permian/pages/news/2020-10-22) [ 2020-10-22 ]
 * [The second circular of ICCP 2019 has been released](http://stratigraphy.org/subcommission-permian/news/2019-02-10) [ 2019-02-10 ]
 * [The Sakmarian-base GSSP has been formally ratified](http://stratigraphy.org/subcommission-permian/news/2018-08-25) [ 2018-08-25 ]
 * [STRATI 2019, the 1st circular is now available](http://stratigraphy.org/subcommission-permian/news/2018-08-03) [ 2018-08-03 ]
