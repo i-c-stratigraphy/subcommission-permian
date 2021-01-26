@@ -13,6 +13,26 @@ permalink: /working-groups
 ### Artinskian-base and Kungurian-base GSSP Working Group
 Leader: Prof. Valery Chernykh
 
+**Dal'ny Tulkas section as GSSP lower boundary of Artinskian Stage**
+
+Dal'ny Tulkas section was proposed as GSSP lower boundary of Artinskian Stage in 2005 on the basis of the study of conodonts, fusulinaceans, ammonoids and radiolarians (Chernykh et al., 2005). The comprehensive paleontological research, which include the study of conodonts, ammonoids, foraminifera, radiolarians, trilobites have been carried out in the boundary Sakmarskian-Artinskian interval of the section for the subsequent years. The lithologic, radiometric studies the study of the of strontium isotopes, stable isotopes C and O have been also performed, geochemical and magnetostratigraphic investigations have been carried out. 
+All carried out works were found under close attention and were accompanied by the personal participation of the chairman of the Permian commission of the Interdepartmental Stratigraphic committee of Russia Galina Vasilyevna Kotlyar.
+
+Only the main list of publications with the results of studying the Dal'ny Tulkas section includes more than 20 articles.
+
+The section was demonstrated to domestic and foreign specialists in 2007 and in 2015. 
+
+The following works are currently being completed:
+
+1. Valery Chernykh and Charles Henderson are finishing the article on the taxonomic position of conodonts of the marker-species of the lower boundary of the Artinskian Stage in the Dal'ny Tulkas section. This species was previously assigned to Sweetognathus aff. whitei (Rhodes). The article will be published in Permophiles 70.
+
+2. The collection of radiolarians and photographs of radiolarians from the Dal’ny Tulkas section have been prepared and will be submitted by M.S. Afanasyeva (Paleontological Institute, RAS) for identification.
+
+3. Additional clearing of the Dal’ny Tulkas section will be resumed in the spring of 2021.
+
+Our proposal for the Dal’ny Tyulkas open-pit mine as GSSP lower boundary of the Artinskian Stage will be voted on by the Subcomission on Permian Stratigraphy in 2021 after the completion of these works.
+
+
 
 
 <a id="correlation"></a>
