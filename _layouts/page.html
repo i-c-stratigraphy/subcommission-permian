@@ -147,8 +147,18 @@
             width: 100%;
             display: block;
         }
+
+        button.banner {
+            position: relative; 
+            margin-top: -150px; 
+            border: none; 
+            color: white; 
+            background-color: Transparent; 
+            cursor: pointer;
+        }
     </style>
     <script>
+        var x = -1 ;
         var banners = [
             "https://stratigraphy.org/subcommission-permian/images/banner-01.jpg",
             "https://stratigraphy.org/subcommission-permian/images/banner-02.jpg",
@@ -162,15 +172,24 @@
             "https://stratigraphy.org/subcommission-permian/images/banner-base-Changhsingian.jpg",
             "https://stratigraphy.org/subcommission-permian/images/banner-base-Sakmarian.jpg",      
         ];
-        /*
 
-        */
-        window.onload = function () {
-            document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())];  
-        };      
+        function displayNextImage() {
+            x = (x === banners.length - 1) ? 0 : x + 1;
+            document.getElementById("banner-img").src = banners[x];
+        }
+
+        function displayPreviousImage() {
+            x = (x <= 0) ? banners.length - 1 : x - 1;
+            document.getElementById("banner-img").src = banners[x];
+        }
+
+        function startTimer() {
+            displayNextImage();
+            setInterval(displayNextImage, 5000);
+        }    
     </script>    
 </head>
-<body>
+<body onload = "startTimer()">
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
@@ -184,6 +203,8 @@
         </div>
         <div id="banner">
             <img id="banner-img" />
+            <button type="button" class="banner" onclick="displayPreviousImage()" style="float:left;">&lt;Previous</button>
+            <button type="button" class="banner" onclick="displayNextImage()" style="float:right;">Next &gt;</button>
         </div>
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">
