@@ -5,4 +5,4 @@ permalink: /interest
 ---
 ## Items of Interest to Members
 
-_coming soon!_
+* [Compilation of selected papers published on Permian topics](http://stratigraphy.org/subcommission-permian/Interests/2020) [year 2020]

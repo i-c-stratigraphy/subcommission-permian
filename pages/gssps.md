@@ -86,18 +86,18 @@ permalink: /gssps
     <tr>
         <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/kungurian-stage">Kungurian Stage</a></td>
         <td></td>
-        <td>Candidate is at Mechetlino, southern Ural Mtns</td>
+        <td>Candidate is at Mechetlino, Southern Ural Mts, Russia</td>
         <td></td>
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102164648661.jpg" title="A: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur and Movshovitsch Chernykh from the Rockland Section in Pequop Moutains, Neveda, USA. 1-7, Neostreptognathodus penvi; 8-13, mostly transitional; 14-19, Neostreptognathodus pequopensis Behnken
-B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur et Movshovitsch Chernykh from the Mechetlino Section in southern Urals, Russia. 1 - Neostreptognathodus pequopensis, from bed 4; 2 - transitional from N. pequopensis to N. pnevi, from bed 9; 3 – N. pnevi, from bed 9."></a></td>
+B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur et Movshovitsch Chernykh from the Mechetlino Section in Southern Urals, Russia. 1 - Neostreptognathodus pequopensis, from bed 4; 2 - transitional from N. pequopensis to N. pnevi, from bed 9; 3 – N. pnevi, from bed 9."></a></td>
         <td></td>
         <td></td>
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/artinskian-stage">Artinskian Stage</a></td>
         <td></td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">candidate is at Dalny Tulkas in southern Ural Mts.</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">candidate is at Dalny Tulkas in Southern Ural Mts, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg"></a></td>
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121116193633896.jpg" title="Sweetognathus whitei (Rhodes) from Bed 4 at Dalny Tulkas (after Chernyk, 2006)"></a></td>
@@ -107,7 +107,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
     <tr>
         <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/sakmarian-stage">Sakmarian Stage</a></td>
         <td>293.52± 0.17</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194719963.jpg">Usolka, Southern Urals Mts, Russia.</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194719963.jpg">Usolka, Southern Ural Mts, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221421013.jpg">53.9247°N,  53.9247°E</a></td>
         <td>Bed 26/3</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/M.monstra.JPG" title="Mesogondolella monstra Chernyk from the Usolka section (Chernyk, 2020)">Conodont FAD Mesogondolella monstra</a></td>
