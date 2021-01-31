@@ -58,9 +58,7 @@ E-mail: <lucia.angiolini@unimi.it>
 <style>
     .permophile img {
         width: 100px;
-    }
-
-</a>  
+    }  
 </style>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 </a>
