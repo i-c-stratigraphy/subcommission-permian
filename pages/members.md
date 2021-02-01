@@ -97,9 +97,9 @@ E-mail: <szshen@nju.edu.cn>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shi Guang R..jpg" alt="" style="width:150px" />  
 **Prof. Guang R. Shi**  
-School of Earth, Atmospheric and Life Sciences, Faculty of Science  
+School of Earth, Atmospheric and Life Sciences  
 University of Wollongong  
-Northfields Ave Wollongong, NSW 2522, Australia   
+Northfields Avenue, NSW 2522, Australia   
 E-mail: <guang@uow.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
