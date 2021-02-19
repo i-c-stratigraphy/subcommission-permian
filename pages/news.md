@@ -4,7 +4,7 @@ title: "News"
 permalink: /news
 ---
 ## News
-* [New Permian video is released](http://stratigraphy.org/subcommission-permian/news/2021-02-19) [ 2021-02-19 ]
+* [New Permian video is released](http://stratigraphy.org/subcommission-permian/news/2020-02-19) [ 2021-02-19 ]
 * [Corresponding members webinar held on 13 November, 2020](http://stratigraphy.org/subcommission-permian/news/2020-11-13) [ 2020-11-13 ]
 * [Voting members webinar held on 22 October, 2020](http://stratigraphy.org/subcommission-permian/news/2020-10-22) [ 2020-10-22 ]
 * [The second circular of ICCP 2019 has been released](http://stratigraphy.org/subcommission-permian/news/2019-02-10) [ 2019-02-10 ]
