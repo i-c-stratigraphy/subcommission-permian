@@ -12,7 +12,7 @@ Permian marine deposits are rich in fossil brachiopods, fusulinids, conodonts an
 
 If you want to know more about the Permian Subcommission, have a look at this colourful new video.
 
-
+<img src="https://stratigraphy.org/subcommission-permian/images/Video.jpg" alt="" style="width:300px" /> 
 
 ### Contact Us
 **Prof. Yichun Zhang**  
