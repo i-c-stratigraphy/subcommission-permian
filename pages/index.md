@@ -14,7 +14,8 @@ If you want to know more about the Permian Subcommission, have a look at this co
 
 [<img src="https://stratigraphy.org/subcommission-permian/images/Video.JPG" alt="" style="width:300px" />](https://youtu.be/s2f1647pCpI)  
 
-For people you cannot access youtube, a low resolution version of the video is available at this link. [SPS video](http://stratigraphy.org/subcommission-permian/files/SPS video2.mp4)
+For people you cannot access youtube, a low resolution version of the video is available at this link. 
+[SPS video](http://stratigraphy.org/subcommission-permian/files/SPS video2.mp4)
 
 ### Contact Us
 **Prof. Yichun Zhang**  
