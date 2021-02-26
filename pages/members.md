@@ -131,7 +131,7 @@ E-mail: <yczhang@nigpas.ac.cn>
 ### Corresponding members
 If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding and email addresses to Yichun Zhang (<yczhang@nigpas.ac.cn>) or Lucia Angiolini (<lucia.angiolini@unimi.it>).
 
-* [list of SPS Corresponding Members](corr members address2019.pdf)
+* [list of SPS Corresponding Members](http://stratigraphy.org/subcommission-permian/files/Corre-members.pdf)
 
 ### Honorary members
 
