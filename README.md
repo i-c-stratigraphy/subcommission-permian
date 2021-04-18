@@ -13,9 +13,14 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 This subcommission's website is hosted within the ICS's set of code repositories, see <https://github.com/i-c-stratigraphy/subcommission-Permian>.
 
-Running the site locally:
+#### Launch new site
+`jekyll new . --force`
 
+#### Serve locally
 `bundle exec jekyll serve`
+
+_to fx dependencies:_
+`bundle update && bundle install` then `bundle add webrick`
 
 
 ## License & Rights
