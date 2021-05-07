@@ -55,7 +55,7 @@ E-mail: <lucia.angiolini@unimi.it>
 
 ### Permophiles
 
-Please click [here](http://stratigraphy.org/subcommission-permian/files/Contents of Permophiles.pdf) to download the full indexes of Permophiles.
+Please click [here](http://stratigraphy.org/subcommission-permian/files/Contents.pdf) to download the full indexes of Permophiles.
 
 <style>
     .permophile img {
