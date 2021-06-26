@@ -39,7 +39,7 @@ permalink: /gssps
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wuchiapingian-stage">Wuchiapingian Stage</a></td>
-        <td>259.1 ± 0.5</td>
+        <td>259.51 ± 0.21</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20120927153523606.jpg">Penglaitan, Guangxi Province, South China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220912686.jpg">23.6953°N 109.3211°E</a></td>
         <td>base of Bed 6k in the Penglaitan Section</td>
@@ -62,7 +62,7 @@ permalink: /gssps
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
-        <td>266.9</td>
+        <td>266.9± 0.04</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200142129.jpg">Guadalupe Pass, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221023791.jpg">31.8658°N 104.8328°W</a></td>
         <td>7.6m above the base of the Getaway Ledge outcrop Section of the Getaway Limestone Member of the Cherry Canyon Formation</td>
@@ -72,7 +72,7 @@ permalink: /gssps
     </tr>    
     <tr>
         <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/roadian-stage">Roadian Stage</a></td>
-        <td>273.14 ± 0.13</td>
+        <td>273.01 ± 0.14</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200214942.jpg">Stratotype Canyon, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221056425.jpg">31.8767°N 104.8768°W</a></td>
         <td>42.7m above the base of the Cutoff Formation</td>
