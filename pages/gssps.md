@@ -62,7 +62,7 @@ permalink: /gssps
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
-        <td>266.9± 0.04</td>
+        <td>266.9± 0.4</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027200142129.jpg">Guadalupe Pass, Texas, U.S.A</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221023791.jpg">31.8658°N 104.8328°W</a></td>
         <td>7.6m above the base of the Getaway Ledge outcrop Section of the Getaway Limestone Member of the Cherry Canyon Formation</td>
