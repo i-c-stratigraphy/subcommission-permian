@@ -7,6 +7,6 @@ permalink: /Interests/Giovanni
 
 ## {{ page.title }}
 
-Please click below to see the presentation by Professor Mark Schmitz.
+Please click below to see the presentation by Professor Giovanni Muttoni.
 
-<iframe width="770px" height="300px" src=" https://youtu.be/0lvqiPFiLzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://stratigraphy.org/subcommission-permian/images/Giovanni.JPG" alt="" style="width:300px" />](https://youtu.be/0lvqiPFiLzo)
