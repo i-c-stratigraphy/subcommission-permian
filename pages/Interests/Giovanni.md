@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Professor Giovanni Muttoni's presentation:“Everything You Always Wanted to Know About Paleogeography*(*But Were Afraid to Ask)”
+title: "Professor Giovanni Muttoni's presentation:“Everything You Always Wanted to Know About Paleogeography*(*But Were Afraid to Ask)”"
 date: '2021-11-18'
 permalink: /Interests/Giovanni
 ---
