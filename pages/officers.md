@@ -23,7 +23,7 @@ British Geological Survey, Kingsley Dunham Centre
 Keyworth, Nottingham NG12 5GG  
 United Kingdom  
 Tel. 0115 936 3577  
-E-mail: <mhste@bgs.ac.uk>  
+E-mail: <mikepalyno@me.com>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Yichun Zhang.jpg" alt="" style="width:150px" />  
 **Secretary**  
