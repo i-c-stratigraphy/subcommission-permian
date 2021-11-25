@@ -108,7 +108,7 @@ British Geological Survey
 Kingsley Dunham Centre  
 Keyworth, Nottingham NG12 5GG  
 United Kingdom  
-E-mail: <mhste@bgs.ac.uk>  
+E-mail: <mikepalyno@me.com>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ueno Katsumi.jpg" alt="" style="width:150px" />  
 **Prof. Katsumi Ueno**  
