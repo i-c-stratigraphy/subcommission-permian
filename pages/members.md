@@ -165,14 +165,6 @@ Pyjevskyi 7
 Moscow 109017 Russia  
 E-mail: <erleven@yandex.ru>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20121031221934628.jpg" alt="" style="width:150px" />  
-**Prof. Claude Spinosa**  
-Department of Geosciences  
-Boise State University  
-1910 University Drive  
-Boise ID 83725 USA  
-E-mail: <cspinosa@boisestate.edu>  
-
 ### Former Chairs
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
