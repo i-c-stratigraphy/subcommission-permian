@@ -35,6 +35,7 @@ E-mail: <lucia.angiolini@unimi.it>
  
 ### Annual Reports
 
+* [Annual Report 2021](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2021.pdf)
 * [Annual Report 2020](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2020.pdf)
 * [Annual Report 2019](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2019.pdf)
 * [Annual Report 2018](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2018.pdf)
