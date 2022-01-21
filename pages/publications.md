@@ -68,6 +68,10 @@ Click [here](http://stratigraphy.org/subcommission-permian/files/Contents.pdf) t
     }  
 </style>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/Permophiles 72.pdf">
+    <img src="http://stratigraphy.org/subcommission-permian/files/issue 72.jpg" alt="permophile thumbnail" /><br />
+    <span style="font-size:small;">Permophiles issue #72</span> 
+</a> 
  <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/Permophiles 71.pdf">
     <img src="http://stratigraphy.org/subcommission-permian/files/issue 71.jpg" alt="permophile thumbnail" /><br />
     <span style="font-size:small;">Permophiles issue #71</span> 
