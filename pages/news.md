@@ -4,6 +4,7 @@ title: "News"
 permalink: /news
 ---
 ## News
+* [IUGS ratification to ICS Artinskian GSSP](http://stratigraphy.org/subcommission-permian/news/2022-02-03) [ 2022-02-03 ] 
 * [SPS funding announcement](http://stratigraphy.org/subcommission-permian/news/2021-11-07) [ 2021-11-07 ]  
 * [SPS webinar on 1st April, 2021](http://stratigraphy.org/subcommission-permian/news/2021-03-19) [ 2021-03-19 ]  
 * [New SPS video is released](http://stratigraphy.org/subcommission-permian/news/2020-02-19) [ 2021-02-19 ]  
