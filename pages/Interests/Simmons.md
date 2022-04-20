@@ -7,5 +7,5 @@ permalink: /Interests/Simmons
 
 ## {{ page.title }}
 
-Please click below to see the presentation by Professor Mark Schmitz.
+Please click below to see the presentation by Professor Mike Simmons.
 
