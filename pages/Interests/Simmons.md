@@ -9,4 +9,4 @@ permalink: /Interests/Simmons
 
 Please click below to see the presentation by Professor Mike Simmons.
 
-[PDF]<a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/20171223095945083.pdf">
+[PDF]<a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/MS Permian 120422 Edit.pdf">
