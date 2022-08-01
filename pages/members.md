@@ -32,7 +32,7 @@ E-mail: <vtschernich@mail.ru>
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
 Landesamt für Bergbau, Energie und Geologie  
-Stilleweg 2, 30655 Hannover, Germany    
+Stilleweg 2, 30655 Hannover, Germany  
 E-mail: <Annette.Goetz@lbeg.niedersachsen.de>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
