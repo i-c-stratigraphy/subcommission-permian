@@ -72,6 +72,12 @@ Università di Pavia-Via Ferrata 1, 27100 PV, Italy
 voice +39-0382-9858  
 E-mail: <ausonio.ronchi@unipv.it>  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Dr. Schiappa Tamra A..jpg" alt="" style="width:150px" />  
+**Dr. Tamra A. Schiappa**  
+Department of Geography, Geology and Environment  
+Slippery Rock University, Slippery Rock, PA 16057 USA  
+E-mail: <tamra.schiappa@sru.edu>  
+
 <img src="https://stratigraphy.org/subcommission-permian/images/20160211091423551.jpg" alt="" style="width:150px" />  
 **Prof. Mark D. Schmitz**  
 Isotope Geology Laboratory  
@@ -83,12 +89,6 @@ Tel: 208-426-5907
 E-mail: <markschmitz@boisestate.edu>  
 <http://earth.boisestate.edu/isotope>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Dr. Schiappa Tamra A..jpg" alt="" style="width:150px" />  
-**Dr. Tamra A. Schiappa**  
-Department of Geography, Geology and Environment  
-Slippery Rock University, Slippery Rock, PA 16057 USA  
-E-mail: <tamra.schiappa@sru.edu>  
-
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Schneider Joerg W..jpg" alt="" style="width:150px" />  
 **Prof. Joerg W. Schneider**  
 Freiberg University of Mining and Technology  
@@ -96,19 +96,21 @@ Institute of Geology, Department of Palaeontology,
 Bernhard-von-Cotta-Str.2, Freiberg, D-09596, Germany  
 E-mail: <Joerg.Schneider@geo.tu-freiberg.de>  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Ana Karina2.jpg" alt="" style="width:150px" />  
+**Prof. Ana Karina Scomazzon**  
+Universidade Federal do Rio Grande do Sul
+Instituto de Geociências
+Departamento de Paleontologia e Estratigrafia
+LACONF - Laboratório de Conodontes e Foraminíferos
+Porto Alegre, RS, Brazil
+E-mail: <akscomazzon@ufrgs.br>
+
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
 **Prof. Shuzhong Shen**  
 School of Earth Sciences and Engineering  
 Nanjing University, 163 Xianlin Avenue,  
 Nanjing, Jiangsu 210023, P.R.China  
 E-mail: <szshen@nju.edu.cn>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shi Guang R..jpg" alt="" style="width:150px" />  
-**Prof. Guang R. Shi**  
-School of Earth, Atmospheric and Life Sciences  
-University of Wollongong  
-Northfields Avenue, NSW 2522, Australia   
-E-mail: <guang@uow.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
 **[Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)**  
@@ -124,11 +126,20 @@ Department of Earth System Science
 Fukuoka University, Fukuoka 814-0180 Japan  
 E-mail: <katsumi@fukuoka.u.ac.jp>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Wang, Yue.jpg" alt="" style="width:150px" />  
-**Prof. Yue Wang**  
-Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences  
-39 East Beijing Road, Nanjing, Jiangsu 210008, China  
-E-mail: <yuewang@nigpas.ac.cn>  
+<img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
+**Dr. Elisabeth Weldon**  
+School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment
+Deakin University
+Locked Bag 20000, Geelong, VIC 3220
++61 3 92517191
+E-mail: <l.weldon@deakin.edu.au>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Dongxun.jpg" alt="" style="width:150px" />  
+**Dr. Dongxun Yuan**  
+School of Resources and Geosciences
+China University of Mining and Technology
+1 Daxue Road, Xuzhou, Jiangsu 221116, P.R. China
+E-mail: <dxyuan@cumt.edu.cn>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Yichun Zhang.jpg" alt="" style="width:150px" />  
 **Prof. Yichun Zhang**  
