@@ -29,12 +29,13 @@ Pochtovy per 7
 Ekaterinburg 620154 Russia  
 E-mail: <vtschernich@mail.ru>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027220954933.jpg" alt="" style="width:150px" />  
-**Dr. Nestor R. Cuneo**  
-Museo Paleontologico Egidio Feruglio  
-(U9100GYO) Av. Fontana 140,  
-Trelew, Chubut, Patagonia Argentina  
-E-mail: <rcuneo@mef.org.ar>  
+<img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
+**Dr. Annette Goetz**  
+Landesamt für Bergbau, Energie und Geologie
+Stilleweg 2
+30655 Hannover
+Germany
+E-mail: <Annette.Goetz@lbeg.niedersachsen.de>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
 **Dr. Valeriy K. Golubev**  
@@ -49,6 +50,13 @@ University of Calgary
 Calgary, Alberta  
 Canada T2N1N4  
 E-mail: <cmhender@ucalgary.ca>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Sam2.jpg" alt="" style="width:150px" />  
+**Dr. Sam Lee**  
+School of Earth, Atmospheric and Life Sciences, 
+University of Wollongong, Northfields Ave,
+Wollongong, NSW 2522, Australia
+E-mail: <lsam@uow.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Spencer G. Lucas.jpg" alt="" style="width:150px" />  
 **Prof. Spencer G. Lucas**  
