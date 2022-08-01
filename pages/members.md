@@ -32,9 +32,7 @@ E-mail: <vtschernich@mail.ru>
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
 Landesamt für Bergbau, Energie und Geologie
-Stilleweg 2
-30655 Hannover
-Germany
+Stilleweg 2, 30655 Hannover, Germany  
 E-mail: <Annette.Goetz@lbeg.niedersachsen.de>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
@@ -55,7 +53,7 @@ E-mail: <cmhender@ucalgary.ca>
 **Dr. Sam Lee**  
 School of Earth, Atmospheric and Life Sciences, 
 University of Wollongong, Northfields Ave,
-Wollongong, NSW 2522, Australia
+Wollongong, NSW 2522, Australia  
 E-mail: <lsam@uow.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Spencer G. Lucas.jpg" alt="" style="width:150px" />  
@@ -102,7 +100,7 @@ Universidade Federal do Rio Grande do Sul
 Instituto de Geociências
 Departamento de Paleontologia e Estratigrafia
 LACONF - Laboratório de Conodontes e Foraminíferos
-Porto Alegre, RS, Brazil
+Porto Alegre, RS, Brazil  
 E-mail: <akscomazzon@ufrgs.br>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
@@ -131,14 +129,14 @@ E-mail: <katsumi@fukuoka.u.ac.jp>
 School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment
 Deakin University
 Locked Bag 20000, Geelong, VIC 3220
-+61 3 92517191
++61 3 92517191  
 E-mail: <l.weldon@deakin.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dongxun.jpg" alt="" style="width:150px" />  
 **Dr. Dongxun Yuan**  
 School of Resources and Geosciences
 China University of Mining and Technology
-1 Daxue Road, Xuzhou, Jiangsu 221116, P.R. China
+1 Daxue Road, Xuzhou, Jiangsu 221116, P.R. China  
 E-mail: <dxyuan@cumt.edu.cn>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Yichun Zhang.jpg" alt="" style="width:150px" />  
