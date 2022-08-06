@@ -8,6 +8,7 @@ permalink: /working-groups
 * [Artinskian-base and Kungurian-base GSSP Working Group](#sps_AK)
 * [Carboniferous-Permian-early Triassic Nonmarine-Marine Correlation Working Group](#correlation)
 * [Correlation between marine and continental Guadalupian Working Group](#GL)
+* [Gondwana to Euramerica correlations Working Group](#GEC)
 
 <a id="sps_AK"></a>
 ### Artinskian-base and Kungurian-base GSSP Working Group
@@ -78,5 +79,20 @@ Synopsis of significant global and regional processes of geotectonics, paleoclim
 <a id="GL"></a>
 ### Correlation between marine and continental Guadalupian Working Group
 Leader: Prof. Charles Henderson
+
+<a id="GEC"></a>
+### Gondwana to Euramerica correlations Working Group
+
+Leader: Prof. Mike Stephenson
+
+At recent meetings of the SPS, it was considered that a challenge for Permian science is the difficulty of correlating between Gondwana and Euramerica. This is particularly acute when important Gondwana successions are to be correlated with the ‘standard sections’ (including GSSPs) in Russia, the US and China. The SPS Executive therefore recommended that a Working Group be set up and a list of possible members was suggested. The Working Group was first convened on 17th May with most of the suggested members present. A second meeting was held on 17 June when all members were present. The group has agreed to have meetings around every 2 months or so to begin with, but also encourages meetings of sub-groups, for example, of palynologists, conodont specialists or brachiopodologists. The group has tried to maintain a good balance of men and women and representation of the main Gondwana and Euramerica continents.
+
+So far, the meetings of the group have settled on three main aims for the WG:
+
+1.	To work on key sections for correlation where rock successions contain combinations of fossils that are particularly useful for correlating between Gondwana and Euramerica. Field visits and joint sampling may be part of this work.
+2.	To work on the taxonomy of some key species for Gondwana to Euramerica correlations, for example so-called ‘bridge taxa’ that occur between or throughout different Permian provinces
+3.	Share knowledge through digital means, for example galleries of photographs and taxonomic notes (example the BGS Taxonomy online galleries: https://www.bgs.ac.uk/information-hub/data-collections/fossil-taxonomy/)
+
+The WG will continue to work on its aims and review its membership, and will report its progress regularly in Permophiles.
 
 
