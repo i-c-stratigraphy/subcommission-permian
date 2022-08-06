@@ -93,7 +93,7 @@ So far, the meetings of the group have settled on three main aims for the WG:
 2.	To work on the taxonomy of some key species for Gondwana to Euramerica correlations, for example so-called ‘bridge taxa’ that occur between or throughout different Permian provinces
 3.	Share knowledge through digital means, for example galleries of photographs and taxonomic notes (example the BGS Taxonomy online galleries: https://www.bgs.ac.uk/information-hub/data-collections/fossil-taxonomy/)
 
-The WG will continue to work on its aims and review its membership, and will report its progress regularly in Permophiles.
+The WG will continue to work on its aims and review its membership, and will report its progress regularly in Permophiles.  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Wadi AK.jpg" alt="" style="width:600px" />  
 Outcrop of the glacigene Carboniferous-Permian Al Khlata Formation in southern Oman. This is a typical Gondwana unit that is difficult to correlate to Euromerican successions and GSSPs. (Photo by Mike Stephenson)
