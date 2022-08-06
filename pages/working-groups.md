@@ -95,4 +95,5 @@ So far, the meetings of the group have settled on three main aims for the WG:
 
 The WG will continue to work on its aims and review its membership, and will report its progress regularly in Permophiles.
 
-
+<img src="https://stratigraphy.org/subcommission-permian/images/Wadi AK.jpg" alt="" style="width:600px" />  
+Outcrop of the glacigene Carboniferous-Permian Al Khlata Formation in southern Oman. This is a typical Gondwana unit that is difficult to correlate to Euromerican successions and GSSPs. (Photo by Mike Stephenson)
