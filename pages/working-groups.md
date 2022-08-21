@@ -6,7 +6,7 @@ permalink: /working-groups
 ## Working Groups
 
 * [Artinskian-base and Kungurian-base GSSP Working Group](#sps_AK)
-* [Carboniferous-Permian-early Triassic Nonmarine-Marine Correlation Working Group](#correlation)
+* [Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group](#correlation)
 * [Correlation between marine and continental Guadalupian Working Group](#GL)
 * [Gondwana to Euramerica correlations Working Group](#GEC)
 
@@ -50,7 +50,7 @@ The section was demonstrated to domestic and foreign specialists in 2007 and in 
 Our proposal for the Mechetlino section as GSSP Lower boundary of the Kungurian Stage can be voted on by the Subcomission on Permian Stratigraphy.  
 
 <a id="correlation"></a>
-### Carboniferous-Permian-early Triassic Nonmarine-Marine Correlation Working Group 
+### Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group 
 
 Leader: Prof. Joerg Schneider
 
