@@ -4,6 +4,7 @@ title: "News"
 permalink: /news
 ---
 ## News
+* [New voting members](http://stratigraphy.org/subcommission-permian/news/2022-08-21-2) [ 2022-08-21 ] 
 * [New SPS Working group](http://stratigraphy.org/subcommission-permian/news/2022-08-21-1) [ 2022-08-21 ] 
 * [IUGS ratification to ICS Artinskian GSSP](http://stratigraphy.org/subcommission-permian/news/2022-02-03) [ 2022-02-03 ] 
 * [SPS funding announcement](http://stratigraphy.org/subcommission-permian/news/2021-11-07) [ 2021-11-07 ]  
