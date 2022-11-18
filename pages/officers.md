@@ -21,6 +21,8 @@ E-mail: <lucia.angiolini@unimi.it>
 [Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)   
 British Geological Survey, Kingsley Dunham Centre   
 Keyworth, Nottingham NG12 5GG  
+Stephenson Geoscience Consulting,  
+Keyworth, Nottingham, NG12 5HU  
 United Kingdom  
 Tel. 0115 936 3577  
 E-mail: <mikepalyno@me.com>  
