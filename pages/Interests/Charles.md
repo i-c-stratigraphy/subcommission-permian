@@ -9,5 +9,5 @@ permalink: /Interests/Charles
 
 Please click below to see the presentation by Professor Charles Henderson.
 
-[<img src="https://stratigraphy.org/subcommission-permian/images/Charles.JPG" alt="" style="width:300px" />](https://youtu.be/QXonHLdqzoU)
+[<img src="https://stratigraphy.org/subcommission-permian/images/Charles.jpg" alt="" style="width:300px" />](https://youtu.be/QXonHLdqzoU)
 
