@@ -32,5 +32,24 @@ permalink: /Taxonomy
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide22.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide23.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide24.JPG" width=400px alt="Taxonomy thumbnail" /><br />
-
-
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide25.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide26.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide27.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide28.JPG" width=400px alt="Taxonomy thumbnail" /><br />  
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide29.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide30.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide31.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide32.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide33.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide34.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide35.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide36.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide37.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide38.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide39.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide40.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide41.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide42.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  
+  
+  
