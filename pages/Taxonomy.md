@@ -7,8 +7,6 @@ permalink: /Taxonomy
 
 ### Gallery
 
-</style>
-
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide1.jpg" alt="Taxonomy thumbnail" />
 </a>
