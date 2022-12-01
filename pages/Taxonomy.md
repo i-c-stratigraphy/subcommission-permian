@@ -6,7 +6,11 @@ permalink: /Taxonomy
 
 
 ### Gallery
-
+<style>
+    .Gallery img {
+        width: 100px;
+    }  
+</style>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide1.JPG" alt="Taxonomy thumbnail" />
 </a>
