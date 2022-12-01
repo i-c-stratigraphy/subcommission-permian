@@ -16,3 +16,10 @@ permalink: /Taxonomy
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide6.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide7.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide8.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide9.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide10.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide11.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide12.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide13.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide14.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+  <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide15.JPG" width=400px alt="Taxonomy thumbnail" /><br />
