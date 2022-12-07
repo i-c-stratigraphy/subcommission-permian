@@ -24,6 +24,7 @@ Prof Mike Stephenson Director Stephenson Geoscience Consulting Ltd Web: <https: 
 
 **Gallery**
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide1.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide2.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide3.JPG" width=400px alt="Taxonomy thumbnail" /><br />
