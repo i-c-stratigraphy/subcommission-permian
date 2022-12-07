@@ -17,10 +17,9 @@ The Usolka section was ratified as the GSSP for the Sakmarian in 2020. Palynolog
 
 **References**
 
-Chernykh, V V, Chuvashov, B I, Shen, S-Z, Henderson, C M, Yuan, D-X, and Stephenson, M H. 2020. The Global Stratotype Section and Point (GSSP) for the base-Sakmarian Stage (Cisuralian, Lower Permian). Episodes. 2020; 43(4): 961-979
-Stephenson, M H. 2016. Permian palynostratigraphy: a global overview. In: Lucas, S G, and Shen, S Z. (eds) The Permian Timescale. Geological Society, London, Special Publications, 450; 321-347.
-Stephenson, M. H. 2017. Preliminary results of palynological study of the Usolka section, location of the proposed basal Sakmarian GSSP. Permophiles, Issue #65, 7-1
-Prof Mike Stephenson Director Stephenson Geoscience Consulting Ltd Web: <https: //www.stephensongeoscienceconsultancyltd.com/> LinkedIn: <linkedin.com/in/mikegeologist> Phone: 0044 07971 330 738 Stephenson Geoscience Consulting Ltd Company number: 13592267 Registered address: 14 Thelda Avenue, Keyworth, Nottingham, NG125HU Director DDE Europe/Middle East Visiting Professor University of Nanjing Visiting Professor University of Milan Honorary Professor University of Nottingham TÜV UK Expert Associate Vice-Chair Permian Subcommission
+Chernykh, V V, Chuvashov, B I, Shen, S-Z, Henderson, C M, Yuan, D-X, and Stephenson, M H. 2020. The Global Stratotype Section and Point (GSSP) for the base-Sakmarian Stage (Cisuralian, Lower Permian). Episodes. 2020; 43(4): 961-979.  
+Stephenson, M H. 2016. Permian palynostratigraphy: a global overview. In: Lucas, S G, and Shen, S Z. (eds) The Permian Timescale. Geological Society, London, Special Publications, 450; 321-347.  
+Stephenson, M. H. 2017. Preliminary results of palynological study of the Usolka section, location of the proposed basal Sakmarian GSSP. Permophiles, Issue #65, 7-1.  
 
 **Gallery**
 
