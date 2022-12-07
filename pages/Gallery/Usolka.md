@@ -24,10 +24,10 @@ Prof Mike Stephenson Director Stephenson Geoscience Consulting Ltd Web: <https: 
 
 **Gallery**
 
-<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide1.JPG" width=400px alt="Taxonomy thumbnail" /><br />
-<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide2.JPG" width=400px alt="Taxonomy thumbnail" /><br />
-<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide3.JPG" width=400px alt="Taxonomy thumbnail" /><br />
-<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide4.JPG" width=400px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide1.JPG" width=380px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide2.JPG" width=380px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide3.JPG" width=380px alt="Taxonomy thumbnail" /><br />
+<img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide4.JPG" width=380px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide5.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide6.JPG" width=400px alt="Taxonomy thumbnail" /><br />
 <img src="http://stratigraphy.org/subcommission-permian/files/Taxonomy/Slide7.JPG" width=400px alt="Taxonomy thumbnail" /><br />
