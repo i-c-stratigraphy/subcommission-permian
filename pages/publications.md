@@ -64,9 +64,7 @@ Click [here](http://stratigraphy.org/subcommission-permian/files/Contents.pdf) t
 **Permophiles Issues**
 
 <style>
-    .permophile img {
-        width: 100px;
-    }  
+    .permophile img {width: 100px;}  
 </style>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/Permophiles 74.pdf">
