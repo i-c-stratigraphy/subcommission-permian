@@ -71,7 +71,6 @@ Click [here](http://stratigraphy.org/subcommission-permian/files/Contents.pdf) t
     <img src="http://stratigraphy.org/subcommission-permian/files/issue 74.jpg" alt="permophile thumbnail" /><br />
     <span style="font-size:small;">Permophiles issue #74</span>  
 </a> 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <a class="permophile" href="http://stratigraphy.org/subcommission-permian/files/permophiles/Permophiles 73.pdf">
     <img src="http://stratigraphy.org/subcommission-permian/files/issue 73.jpg" alt="permophile thumbnail" /><br />
     <span style="font-size:small;">Permophiles issue #73</span> 
