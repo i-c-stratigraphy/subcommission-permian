@@ -86,7 +86,7 @@ permalink: /gssps
     <tr>
         <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/kungurian-stage">Kungurian Stage</a></td>
         <td></td>
-        <td>Candidate is at Mechetlino, Southern Ural Mts, Russia</td>
+        <td>Candidate is Rockland, Nevada</td>
         <td></td>
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102164648661.jpg" title="A: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur and Movshovitsch Chernykh from the Rockland Section in Pequop Moutains, Neveda, USA. 1-7, Neostreptognathodus penvi; 8-13, mostly transitional; 14-19, Neostreptognathodus pequopensis Behnken
@@ -97,11 +97,11 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/artinskian-stage">Artinskian Stage</a></td>
         <td></td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">candidate is at Dalny Tulkas in Southern Ural Mts, Russia.</a></td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg"></a></td>
-        <td></td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121116193633896.jpg" title="Sweetognathus whitei (Rhodes) from Bed 4 at Dalny Tulkas (after Chernyk, 2006)"></a></td>
-        <td></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">Dalny Tulkas in Southern Ural Mts, Russia.</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg"></a></td>53.88847°N 56.51615°E</a></td>
+        <td></td>0.6m above the base of bed 4b at the Dal’ny Tulkas section in the southern Urals of Russia
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121116193633896.jpg" title="FAD of the conodont Sweetognathus asymmetricus"></a></td>
+        <td></td>Ratified 2022
         <td></td>
     </tr>    
     <tr>
