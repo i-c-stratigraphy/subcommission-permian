@@ -9,4 +9,4 @@ permalink: /Interests/ogg and lucas
 
 Please click below to see the presentation by Professor Jim Ogg and Professor Spencer Lucas.
 
-[<img src="https://stratigraphy.org/subcommission-permian/images/Ogg Lucas talk.jpg" alt="" style="width:300px" />]([https://youtu.be/QXonHLdqzoU](https://youtu.be/W1bGoYj3oiE))  
+[<img src="https://stratigraphy.org/subcommission-permian/images/Ogg Lucas talk.jpg" alt="" style="width:300px" />](https://youtu.be/W1bGoYj3oiE) 
