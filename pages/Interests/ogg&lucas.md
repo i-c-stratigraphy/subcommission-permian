@@ -1,8 +1,8 @@
 ---
-layout: page
-title: " The presentation by Professors Jim Ogg and Spencer Lucas on "Spiking the Geologic Calendar: GSSPs and Their Challenges""
-date: '2023-04-13'
-permalink: /Interests/ogg&lucas
+layout: page  
+title: " The presentation by Professors Jim Ogg and Spencer Lucas on "Spiking the Geologic Calendar: GSSPs and Their Challenges""  
+date: '2023-04-13'  
+permalink: /Interests/ogg&lucas  
 ---
 
 ## {{ page.title }}
