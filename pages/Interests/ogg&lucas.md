@@ -2,7 +2,7 @@
 layout: page
 title: " Professor Charles Henderson’s presentation: “The Science of Permian Conodonts” "
 date: '2022-11-28'
-permalink: /Interests/ogg and lucas
+permalink: /Interests/ogg&lucas
 ---
 
 ## {{ page.title }}
