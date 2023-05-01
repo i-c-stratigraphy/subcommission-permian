@@ -4,6 +4,8 @@ title: "News"
 permalink: /news
 ---
 ## News
+* [The SABS for the base of the Wuchiapingian Stage is approved by SPS](http://stratigraphy.org/subcommission-permian/news/2023-05-01-2) [ 2023-05-01 ] 
+* [The revised definition of the GSSP defining the base of the Wuchiapingian stage is approved by SPS](http://stratigraphy.org/subcommission-permian/news/2023-05-01-1) [ 2023-05-01 ] 
 * [New voting members](http://stratigraphy.org/subcommission-permian/news/2022-08-21-2) [ 2022-08-21 ] 
 * [New SPS Working Group](http://stratigraphy.org/subcommission-permian/news/2022-08-21-1) [ 2022-08-21 ] 
 * [IUGS ratification to ICS Artinskian GSSP](http://stratigraphy.org/subcommission-permian/news/2022-02-03) [ 2022-02-03 ] 
