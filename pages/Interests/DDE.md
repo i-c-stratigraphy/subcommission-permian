@@ -1,7 +1,7 @@
 ---
 layout: page
-title: " Professor Charles Henderson’s presentation: “The Science of Permian Conodonts” "
-date: '2022-11-28'
+title: " Professor Michael H. Stephenson’s presentation: “The IUGS Deep-time Digital Earth Program” "
+date: '2023-06-13'
 permalink: /Interests/Charles
 ---
 
