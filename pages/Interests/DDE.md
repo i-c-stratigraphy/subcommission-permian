@@ -9,5 +9,5 @@ permalink: /Interests/DDE
 
 Please click below to see the presentation by Professor Michael H. Stephenson.  
 
-[<img src="https://stratigraphy.org/subcommission-permian/images/DDE.jpg"  alt="" style="width:300px" />](https://youtu.be/Uxy0U2hnYp4)  
+[<img src="https://stratigraphy.org/subcommission-permian/images/DDE.jpg"  alt="" style="width:200px" />](https://youtu.be/Uxy0U2hnYp4)  
 
