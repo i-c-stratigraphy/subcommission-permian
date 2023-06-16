@@ -101,8 +101,8 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg">53.88847°N 56.51615°E</a></td>
         <td>0.6m above the base of bed 4b at the Dal’ny Tulkas section in the southern Urals of Russia</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121116193633896.jpg" >FAD of the conodont Sweetognathus asymmetricus</a></td>
-        <td>Episodes Published online June 15, 2023
-        <td></td>
+        <td>Ratified 2022</td>
+        <td>Episodes Published online June 15, 2023</td>
     </tr>    
     <tr>
         <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/sakmarian-stage">Sakmarian Stage</a></td>
