@@ -92,7 +92,7 @@ E-mail: <markschmitz@boisestate.edu>
 Freiberg University of Mining and Technology  
 Institute of Geology, Department of Palaeontology,  
 Bernhard-von-Cotta-Str.2, Freiberg, D-09596, Germany  
-E-mail: <Joerg.Schneider@geo.tu-freiberg.de>  
+E-mail: <schneiderj-geo@gmx.de>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Ana Karina2.jpg" alt="" style="width:150px" />  
 **Prof. Ana Karina Scomazzon**  
