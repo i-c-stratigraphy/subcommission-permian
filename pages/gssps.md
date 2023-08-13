@@ -42,9 +42,9 @@ permalink: /gssps
         <td>259.51 ± 0.21</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20120927153523606.jpg">Penglaitan, Guangxi Province, South China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220912686.jpg">23.6953°N 109.3211°E</a></td>
-        <td>base of Bed 6k in the Penglaitan Section</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121023220414005.jpg">FAD of Clarkina postbitteri postbitteri</a></td>
-        <td>Ratified 2004</td>
+        <td>base of Bed n6L in the newly exposed Penglaitan section</td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121023220414005.jpg">FAD of Clarkina postbitteri</a></td>
+        <td>Ratified 2004, redefinition ratified 2023</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/base Wuchiapingian.pdf">Episodes 29/4, p. 253-262, 2006</a></td>
     </tr>    
     <tr style="background-color:#cdcd00;">
