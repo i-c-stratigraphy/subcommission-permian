@@ -79,8 +79,8 @@ permalink: /gssps
         <td>42.7m above the base of the Cutoff Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121101164240566.jpg" title="_Jinogondolella nankingensis_">Conodont FAD Jinogondolella nankingensis</a></td>
         <td>Ratified 2001</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/Proposals of Guadalupian.pdf">Permophiles 34  p. 3-11, 1999</a></td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/Shen et al., 2020, ESR.pdf">Shen et al., 2020, Earth-Science Reviews</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Proposals of Guadalupian.pdf">Permophiles 34  p. 3-11, 1999;</a>  
+        <a href="https://stratigraphy.org/subcommission-permian/files/Shen et al., 2020, ESR.pdf">Shen et al., 2020, Earth-Science Reviews</a></td>
     </tr>
     <tr style="background-color:#cdcd00;">
         <td colspan="8" style="background-color:#D2E6F0;"><strong>Cisuralian Series</strong></td>
