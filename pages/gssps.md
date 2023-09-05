@@ -68,6 +68,7 @@ permalink: /gssps
         <td>7.6m above the base of the Getaway Ledge outcrop Section of the Getaway Limestone Member of the Cherry Canyon Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121103194924165.jpg" title="Jinogondolella aserrata (Clark and Behnken) from the Glass Mountains. The first occurrence of this species has been defined as the base of the Wordian Stage (after Wardlaw, 2000)">FAD of Jinogondolella aserrata</a></td>
         <td>Ratified 2001</td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Proposals of Guadalupian.pdf">Permophiles 34  p. 3-11, 1999</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Wu et al., 2020, PPP.pdf">Wu et al., 2020, Palaeogeography, Palaeoclimatology, Palaeoecology</a></td>
     </tr>    
     <tr>
@@ -78,6 +79,7 @@ permalink: /gssps
         <td>42.7m above the base of the Cutoff Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121101164240566.jpg" title="_Jinogondolella nankingensis_">Conodont FAD Jinogondolella nankingensis</a></td>
         <td>Ratified 2001</td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Proposals of Guadalupian.pdf">Permophiles 34  p. 3-11, 1999</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Shen et al., 2020, ESR.pdf">Shen et al., 2020, Earth-Science Reviews</a></td>
     </tr>
     <tr style="background-color:#cdcd00;">
