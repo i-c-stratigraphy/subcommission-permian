@@ -93,7 +93,7 @@ permalink: /gssps
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102164648661.jpg" title="A: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur and Movshovitsch Chernykh from the Rockland Section in Pequop Moutains, Neveda, USA. 1-7, Neostreptognathodus penvi; 8-13, mostly transitional; 14-19, Neostreptognathodus pequopensis Behnken
 B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur et Movshovitsch Chernykh from the Mechetlino Section in Southern Urals, Russia. 1 - Neostreptognathodus pequopensis, from bed 4; 2 - transitional from N. pequopensis to N. pnevi, from bed 9; 3 – N. pnevi, from bed 9."></a></td>
-        <td>Anticipated 2024</td>
+        <td>Anticipated 2024</a></td>
         <td></td>
     </tr>    
     <tr>
