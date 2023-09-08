@@ -87,18 +87,18 @@ permalink: /gssps
     </tr>
     <tr>
         <td style="background-color:#58A0C8;"><a href="https://stratigraphy.org/subcommission-permian/gssps/kungurian-stage">Kungurian Stage</a></td>
-        <td></td>283.5± 0.6</td>
+        <td>283.5± 0.6</td>
         <td>Candidate is Rockland, Nevada</td>
         <td></td>
         <td></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102164648661.jpg" title="A: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur and Movshovitsch Chernykh from the Rockland Section in Pequop Moutains, Neveda, USA. 1-7, Neostreptognathodus penvi; 8-13, mostly transitional; 14-19, Neostreptognathodus pequopensis Behnken
 B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pnevi Kozur et Movshovitsch Chernykh from the Mechetlino Section in Southern Urals, Russia. 1 - Neostreptognathodus pequopensis, from bed 4; 2 - transitional from N. pequopensis to N. pnevi, from bed 9; 3 – N. pnevi, from bed 9."></a></td>
-        <td></td>Anticipated 2024
+        <td></td>Anticipated 2024</td>
         <td></td>
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/artinskian-stage">Artinskian Stage</a></td>
-        <td></td>290.1± 0.26</td>
+        <td>290.1± 0.26</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121027194647275.jpg">Dalny Tulkas in Southern Ural Mts, Russia.</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221506904.jpg">53.88847°N 56.51615°E</a></td>
         <td>0.6m above the base of bed 4b at the Dal’ny Tulkas section in the southern Urals of Russia</td>
