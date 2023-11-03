@@ -127,7 +127,7 @@ Fukuoka University, Fukuoka 814-0180 Japan
 E-mail: <katsumi@fukuoka.u.ac.jp>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
-**Dr. Elisabeth Weldon**  
+**Dr. Elizabeth Weldon**  
 School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment  
 Deakin University  
 Locked Bag 20000, Geelong, VIC 3220  
