@@ -36,7 +36,7 @@ Tel. +86-25-83282137
 E-mail: <yczhang@nigpas.ac.cn>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
-**Newsletter editor**  
+**Newsletter Editor**  
 Dr. Elizabeth Weldon  
 School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment  
 Deakin University  
