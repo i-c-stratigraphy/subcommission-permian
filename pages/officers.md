@@ -35,3 +35,12 @@ Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences
 Tel. +86-25-83282137  
 E-mail: <yczhang@nigpas.ac.cn>  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
+**Newsletter editor**  
+Elizabeth Weldon
+School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment  
+Deakin University  
+Locked Bag 20000, Geelong, VIC 3220  
++61 3 92517191  
+E-mail: <l.weldon@deakin.edu.au>  
+
