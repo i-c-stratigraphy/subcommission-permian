@@ -37,7 +37,7 @@ E-mail: <yczhang@nigpas.ac.cn>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
 **Newsletter editor**  
-Elizabeth Weldon
+Dr. Elizabeth Weldon  
 School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment  
 Deakin University  
 Locked Bag 20000, Geelong, VIC 3220  
