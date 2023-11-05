@@ -4,6 +4,7 @@ title: "Interest to members"
 permalink: /interest
 ---
 ## Items of Interest to Members
+* [The presentation by Professors Shuzhong Shen and Charles Henderson on "Progress, problems and perspectives for the base-Roadian and base-Wordian GSSPs"](http://stratigraphy.org/subcommission-permian/Interests/Shuzhong and Charles)
 * [The presentation by Professors Michael H. Stephenson on "The IUGS Deep-time Digital Earth Program"](http://stratigraphy.org/subcommission-permian/Interests/DDE)
 * [The presentation by Professors Jim Ogg and Spencer Lucas on "Spiking the Geologic Calendar: GSSPs and Their Challenges"](http://stratigraphy.org/subcommission-permian/Interests/ogg&lucas)
 * [Compilation of selected papers published on Permian topics](http://stratigraphy.org/subcommission-permian/Interests/2022) [year 2022]
