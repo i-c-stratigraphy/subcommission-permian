@@ -36,11 +36,12 @@ E-mail: <vg@paleo.ru>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
 **[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
-Department of Geoscience,  
+Department of Earth, Energy and Environment,  
 University of Calgary  
 Calgary, Alberta  
 Canada T2N1N4  
 E-mail: <cmhender@ucalgary.ca>  
+**Prof. Charles Henderson** is a Professor at the University of Calgary and a former Secretary and Chair of the Subcommission on Permian Stratigraphy. His primary research considers conodont biostratigraphy, evolution and paleobiology from many sites around the world in order to refine the Permian and Early Triassic Geologic Time Scale.
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Sam2.jpg" alt="" style="width:150px" />  
 **Dr. Sam Lee**  
@@ -48,6 +49,7 @@ School of Earth, Atmospheric and Life Sciences
 University of Wollongong, Northfields Ave  
 Wollongong, NSW 2522, Australia  
 E-mail: <lsam@uow.edu.au>  
+**Dr. Sangmin (Sam) Lee** is a Research Fellow at the University of Wollongong. Sam’s research is on taxonomy, biostratigraphy, palaeobiogeography and phylogeny of Palaeozoic marine macroinvertebrate fossils, currently focusing on Permian brachiopods from the southern Sydney Basin in eastern Australia to understand evolutionary trends in high-latitudinal environments during the Permian.
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Spencer G. Lucas.jpg" alt="" style="width:150px" />  
 **Prof. Spencer G. Lucas**  
@@ -55,6 +57,7 @@ New Mexico Museum of Natural History and Science
 1801 Mountain Road N. W., Albuquerque, New Mexico 87104-1375 USA  
 Tel: 505-841-2873; Fax: 505-841-2808  
 E-mail: <spencer.lucas@state.nm.us>  
+**Prof. Spencer G. Lucas** is Curator of Geology and Paleontology at the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico, USA. Primarily trained as a vertebrate paleontologist, he undertakes research on Permian vertebrates, trace fossils and conodont biostratigraphy.  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ronchi Ausonio.jpg" alt="" style="width:150px" />  
 **Prof. Ausonio Ronchi**  
