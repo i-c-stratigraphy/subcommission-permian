@@ -21,14 +21,6 @@ Far East Branch, Russian Academy of Sciences,
 Portovaya ul. 16, Magadan, 685000 Russia  
 E-mail: <abiakov@mail.ru>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027112906496.jpg" alt="" style="width:150px" />  
-**Dr. Valery Chernykh**  
-Institute of Geology and Geochemistry  
-Urals Baranch of Russian Academy of Science  
-Pochtovy per 7  
-Ekaterinburg 620154 Russia  
-E-mail: <vtschernich@mail.ru>  
-
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
 Landesamt für Bergbau, Energie und Geologie  
@@ -70,23 +62,6 @@ Università di Pavia-Via Ferrata 1, 27100 PV, Italy
 voice +39-0382-9858  
 E-mail: <ausonio.ronchi@unipv.it>  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Dr. Schiappa Tamra A..jpg" alt="" style="width:150px" />  
-**Dr. Tamra A. Schiappa**  
-Department of Geography, Geology and Environment  
-Slippery Rock University, Slippery Rock, PA 16057 USA  
-E-mail: <tamra.schiappa@sru.edu>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20160211091423551.jpg" alt="" style="width:150px" />  
-**Prof. Mark D. Schmitz**  
-Isotope Geology Laboratory  
-Department of Geosciences  
-Boise State University  
-1910 University Drive  
-Boise, ID 83725-1535  
-Tel: 208-426-5907  
-E-mail: <markschmitz@boisestate.edu>  
-<http://earth.boisestate.edu/isotope>  
-
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Schneider Joerg W..jpg" alt="" style="width:150px" />  
 **Prof. Joerg W. Schneider**  
 Freiberg University of Mining and Technology  
@@ -119,12 +94,6 @@ Stephenson Geoscience Consulting,
 Keyworth, Nottingham, NG12 5HU  
 United Kingdom  
 E-mail: <mikepalyno@me.com>  
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ueno Katsumi.jpg" alt="" style="width:150px" />  
-**Prof. Katsumi Ueno**  
-Department of Earth System Science  
-Fukuoka University, Fukuoka 814-0180 Japan  
-E-mail: <katsumi@fukuoka.u.ac.jp>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
 **Dr. Elizabeth Weldon**  
@@ -183,6 +152,12 @@ Russian Academy of Sciences
 Pyjevskyi 7  
 Moscow 109017 Russia  
 E-mail: <erleven@yandex.ru>  
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Dr. Schiappa Tamra A..jpg" alt="" style="width:150px" />  
+**Dr. Tamra A. Schiappa**  
+Department of Geography, Geology and Environment  
+Slippery Rock University, Slippery Rock, PA 16057 USA  
+E-mail: <tamra.schiappa@sru.edu>  
 
 ### Former Chairs
 
