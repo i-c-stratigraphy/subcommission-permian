@@ -13,6 +13,7 @@ Dipartimento di Scienze Terra “A. DEsio”
 Via Manggiagalli 34, 20133  
 Milano, Italy  
 E-mail: <lucia.angiolini@unimi.it>  
+Prof. Lucia is a professor of Palaeontology at UNIMI, her primary research is on the taxonomy and biostratigraphy of Carboniferous and Permian brachiopods from N Europe, the Mediterranean region, Arabia and Asia, and on the palaeoclimatological and palaeoecological implications of their study.
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115140687.jpg" alt="" style="width:150px" />  
 **Dr. Alexander Biakov**  
@@ -94,6 +95,7 @@ Stephenson Geoscience Consulting,
 Keyworth, Nottingham, NG12 5HU  
 United Kingdom  
 E-mail: <mikepalyno@me.com>  
+Mike Stephenson is an independent palynology and stratigraphy consultant specialising in the Palaeozoic of the Middle East. He is past President and founding president of the IUGS Deep-time Digital Earth Program and past Executive Chief Scientist of the British Geological Survey.  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
 **Dr. Elizabeth Weldon**  
@@ -102,6 +104,7 @@ Deakin University
 Locked Bag 20000, Geelong, VIC 3220  
 +61 3 92517191  
 E-mail: <l.weldon@deakin.edu.au>  
+Dr Liz Weldon is Senior Lecturer and Associate Head of School (International) in the School of Life and Environmental Sciences, Deakin University. Liz’s primary research is on the taxonomy, palaeobiogeography and palaeoecology of Permian and Triassic brachiopods, molluscs and conulariids.  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dongxun.jpg" alt="" style="width:150px" />  
 **Dr. Dongxun Yuan**  
@@ -115,6 +118,7 @@ E-mail: <dxyuan@cumt.edu.cn>
 Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences  
 39 East Beijing Road, Nanjing, Jiangsu 210008, China  
 E-mail: <yczhang@nigpas.ac.cn>  
+Prof.Zhang is a professor of Palaeontology at Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences. His primary reseach is on the taxonomy, biostratigraphy and palaeobiogeography of Carboniferous and Permian foraminifers.
 
 ### Corresponding members
 If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding and email addresses to Yichun Zhang (<yczhang@nigpas.ac.cn>) or Lucia Angiolini (<lucia.angiolini@unimi.it>).
