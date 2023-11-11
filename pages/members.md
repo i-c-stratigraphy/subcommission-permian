@@ -67,6 +67,15 @@ E-mail: <spencer.lucas@state.nm.us>
 **Prof. Spencer G. Lucas** is Curator of Geology and Paleontology at the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico, USA. Primarily trained as a vertebrate paleontologist, he undertakes research on Permian vertebrates, trace fossils and conodont biostratigraphy. 
 
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Lorenzo Marchetti.jpg" alt="" style="width:150px" />  
+**Dr. Lorenzo Marchetti**  
+Museum für Naturkunde - Leibniz Institute for Research on Evolution and Biodiversity
+Invalidenstrasse 43, 10115 
+Berlin, Germany
+E-mail: lorenzo.marchetti85@gmail.com
+**Dr. Lorenzo Marchetti** is a researcher in palaeontology and geology at the Museum für Naturkunde of Berlin, Germany. His research focusses on late Palaeozoic and early Mesozoic vertebrate faunas and ichnofaunas, including taxonomy, stratigraphy, locomotion, palaeoecology and palaeoclimate.
+
+
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike Read.jpg" alt="" style="width:150px" />  
 **Dr. Michael T.Read**  
 Department of Earth Sciences & Geologic Resources  
