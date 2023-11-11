@@ -57,7 +57,15 @@ New Mexico Museum of Natural History and Science
 1801 Mountain Road N. W., Albuquerque, New Mexico 87104-1375 USA  
 Tel: 505-841-2873; Fax: 505-841-2808  
 E-mail: <spencer.lucas@state.nm.us>  
-**Prof. Spencer G. Lucas** is Curator of Geology and Paleontology at the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico, USA. Primarily trained as a vertebrate paleontologist, he undertakes research on Permian vertebrates, trace fossils and conodont biostratigraphy.  
+**Prof. Spencer G. Lucas** is Curator of Geology and Paleontology at the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico, USA. Primarily trained as a vertebrate paleontologist, he undertakes research on Permian vertebrates, trace fossils and conodont biostratigraphy. 
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Mike Read.jpg" alt="" style="width:150px" />  
+**Dr. Michael T.Read**  
+Department of Earth Sciences & Geologic Resources  
+Stephen F. Austin State University  
+Tel: 936.468.2095  
+E-mail: <michael.read@sfasu.edu>  
+**Dr. Mike Read** is a lecturer at Stephen F. Austin State University in Nacogdoches, Texas, USA. His research is primarily concerned with Pennsylvanian-Permian fusulinid and conodont biostratigraphy of the North American Cordillera and correlation with Paleo-Tethyan stratigraphic successions.
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ronchi Ausonio.jpg" alt="" style="width:150px" />  
 **Prof. Ausonio Ronchi**  
