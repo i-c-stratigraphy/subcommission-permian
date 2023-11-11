@@ -69,11 +69,11 @@ E-mail: <spencer.lucas@state.nm.us>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Lorenzo Marchetti.jpg" alt="" style="width:150px" />  
 **Dr. Lorenzo Marchetti**  
-Museum für Naturkunde - Leibniz Institute for Research on Evolution and Biodiversity
-Invalidenstrasse 43, 10115 
-Berlin, Germany
-E-mail: lorenzo.marchetti85@gmail.com
-**Dr. Lorenzo Marchetti** is a researcher in palaeontology and geology at the Museum für Naturkunde of Berlin, Germany. His research focusses on late Palaeozoic and early Mesozoic vertebrate faunas and ichnofaunas, including taxonomy, stratigraphy, locomotion, palaeoecology and palaeoclimate.
+Museum für Naturkunde - Leibniz Institute for Research on Evolution and Biodiversity  
+Invalidenstrasse 43, 10115  
+Berlin, Germany  
+E-mail: lorenzo.marchetti85@gmail.com  
+**Dr. Lorenzo Marchetti** is a researcher in palaeontology and geology at the Museum für Naturkunde of Berlin, Germany. His research focusses on late Palaeozoic and early Mesozoic vertebrate faunas and ichnofaunas, including taxonomy, stratigraphy, locomotion, palaeoecology and palaeoclimate.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike Read.jpg" alt="" style="width:150px" />  
