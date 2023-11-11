@@ -21,6 +21,7 @@ Northeast Interdisciplinary Scientific Research Institute
 Far East Branch, Russian Academy of Sciences,  
 Portovaya ul. 16, Magadan, 685000 Russia  
 E-mail: <abiakov@mail.ru>  
+**Dr. Alexander Biakov** is a head of Laboratory at NEISRI FEB RAS. His primary research is on the biostratigraphy, taxonomy, and palaeobiogeography of Permian marine bivalves, and on the palaeoclimatological and palaeoecological problems.
 
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
@@ -96,6 +97,7 @@ School of Earth Sciences and Engineering
 Nanjing University, 163 Xianlin Avenue,  
 Nanjing, Jiangsu 210023, P.R.China  
 E-mail: <szshen@nju.edu.cn>  
+**Prof. Shu-zhong Shen** is a Professor at the School of Earth Sciences and Engineering of Nanjing University and a Member of Chinese Academy of Sciences. He was the former Chair of the Subcommission on Permian Stratigraphy and the current Vice-Chair of the International Commission on Stratigraphy. His main research interests include Permian brachiopods, conodonts, biostratigraphy, diversity patterns, end-Permian mass extinction and environmental changes in deep time.  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
 **[Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)**  
