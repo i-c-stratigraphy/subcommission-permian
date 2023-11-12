@@ -77,7 +77,7 @@ E-mail: lorenzo.marchetti85@gmail.com
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike Read.jpg" alt="" style="width:150px" />  
-**Dr. Michael T.Read**  
+**Dr. Michael T. Read**  
 Department of Earth Sciences & Geologic Resources  
 Stephen F. Austin State University  
 Tel: 936.468.2095  
