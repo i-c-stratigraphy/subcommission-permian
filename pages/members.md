@@ -48,7 +48,7 @@ Canada T2N1N4
 E-mail: <cmhender@ucalgary.ca>  
 **Prof. Charles Henderson** is a Professor at the University of Calgary and a former Secretary and Chair of the Subcommission on Permian Stratigraphy. His primary research considers conodont biostratigraphy, evolution and paleobiology from many sites around the world in order to refine the Permian and Early Triassic Geologic Time Scale.  
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Hana.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Hana.jpeg" alt="" style="width:150px" />  
 **Dr. Hana Jurikova**
 School of Earth and Environmental Sciences, University of St Andrews  
 Bute Building, Queen’s Terrace,  
