@@ -13,7 +13,7 @@ Dipartimento di Scienze Terra “A. DEsio”
 Via Manggiagalli 34, 20133  
 Milano, Italy  
 E-mail: <lucia.angiolini@unimi.it>  
-**Prof. Lucia Angiolini** is a professor of Palaeontology at UNIMI. Her primary research is on the taxonomy and biostratigraphy of Carboniferous and Permian brachiopods from N Europe, the Mediterranean region, Arabia and Asia, and on the palaeoclimatological and palaeoecological implications of their study.
+**Prof. Lucia Angiolini** is a professor of Palaeontology at UNIMI. Her primary research is on the taxonomy and biostratigraphy of Carboniferous and Permian brachiopods from N Europe, the Mediterranean region, Arabia and Asia, and on the palaeoclimatological and palaeoecological implications of their study.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115140687.jpg" alt="" style="width:150px" />  
@@ -22,7 +22,7 @@ Northeast Interdisciplinary Scientific Research Institute
 Far East Branch, Russian Academy of Sciences,  
 Portovaya ul. 16, Magadan, 685000 Russia  
 E-mail: <abiakov@mail.ru>  
-**Dr. Alexander Biakov** is a head of Laboratory at NEISRI FEB RAS. His primary research is on the biostratigraphy, taxonomy, and palaeobiogeography of Permian marine bivalves, and on the palaeoclimatological and palaeoecological problems.
+**Dr. Alexander Biakov** is a head of Laboratory at NEISRI FEB RAS. His primary research is on the biostratigraphy, taxonomy, and palaeobiogeography of Permian marine bivalves, and on the palaeoclimatological and palaeoecological problems.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
@@ -46,8 +46,16 @@ University of Calgary
 Calgary, Alberta  
 Canada T2N1N4  
 E-mail: <cmhender@ucalgary.ca>  
-**Prof. Charles Henderson** is a Professor at the University of Calgary and a former Secretary and Chair of the Subcommission on Permian Stratigraphy. His primary research considers conodont biostratigraphy, evolution and paleobiology from many sites around the world in order to refine the Permian and Early Triassic Geologic Time Scale.
+**Prof. Charles Henderson** is a Professor at the University of Calgary and a former Secretary and Chair of the Subcommission on Permian Stratigraphy. His primary research considers conodont biostratigraphy, evolution and paleobiology from many sites around the world in order to refine the Permian and Early Triassic Geologic Time Scale.  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Hana.jpg" alt="" style="width:150px" />  
+**Dr. Hana Jurikova**
+School of Earth and Environmental Sciences, University of St Andrews  
+Bute Building, Queen’s Terrace,  
+St Andrews, KY16 9TS,  
+United Kingdom  
+Email: <hj43@st-andrews.ac.uk>  
+**Dr Hana Jurikova** is a Research Fellow at the University of St Andrews. Hana is an isotope geochemist, with her main research focusing on palaeo-climate and palaeo-seawater reconstructions. Hana's interests also include Permian brachiopods and brachiopod biomineralisation, biodiversity patterns, the Permian-Triassic mass extinction and evaporitic deposits.   
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Sam2.jpg" alt="" style="width:150px" />  
 **Dr. Sam Lee**  
@@ -55,7 +63,7 @@ School of Earth, Atmospheric and Life Sciences
 University of Wollongong, Northfields Ave  
 Wollongong, NSW 2522, Australia  
 E-mail: <lsam@uow.edu.au>  
-**Dr. Sangmin (Sam) Lee** is a Research Fellow at the University of Wollongong. Sam’s research is on taxonomy, biostratigraphy, palaeobiogeography and phylogeny of Palaeozoic marine macroinvertebrate fossils, currently focusing on Permian brachiopods from the southern Sydney Basin in eastern Australia to understand evolutionary trends in high-latitudinal environments during the Permian.
+**Dr. Sangmin (Sam) Lee** is a Research Fellow at the University of Wollongong. Sam’s research is on taxonomy, biostratigraphy, palaeobiogeography and phylogeny of Palaeozoic marine macroinvertebrate fossils, currently focusing on Permian brachiopods from the southern Sydney Basin in eastern Australia to understand evolutionary trends in high-latitudinal environments during the Permian.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Spencer G. Lucas.jpg" alt="" style="width:150px" />  
@@ -64,7 +72,7 @@ New Mexico Museum of Natural History and Science
 1801 Mountain Road N. W., Albuquerque, New Mexico 87104-1375 USA  
 Tel: 505-841-2873; Fax: 505-841-2808  
 E-mail: <spencer.lucas@state.nm.us>  
-**Prof. Spencer G. Lucas** is Curator of Geology and Paleontology at the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico, USA. Primarily trained as a vertebrate paleontologist, he undertakes research on Permian vertebrates, trace fossils and conodont biostratigraphy. 
+**Prof. Spencer G. Lucas** is Curator of Geology and Paleontology at the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico, USA. Primarily trained as a vertebrate paleontologist, he undertakes research on Permian vertebrates, trace fossils and conodont biostratigraphy.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Lorenzo Marchetti.jpg" alt="" style="width:150px" />  
@@ -82,7 +90,7 @@ Department of Earth Sciences & Geologic Resources
 Stephen F. Austin State University  
 Tel: 936.468.2095  
 E-mail: <michael.read@sfasu.edu>  
-**Dr. Mike Read** is a lecturer at Stephen F. Austin State University in Nacogdoches, Texas, USA. His research is primarily concerned with Pennsylvanian-Permian fusulinid and conodont biostratigraphy of the North American Cordillera and correlation with Paleo-Tethyan stratigraphic successions.
+**Dr. Mike Read** is a lecturer at Stephen F. Austin State University in Nacogdoches, Texas, USA. His research is primarily concerned with Pennsylvanian-Permian fusulinid and conodont biostratigraphy of the North American Cordillera and correlation with Paleo-Tethyan stratigraphic successions.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ronchi Ausonio.jpg" alt="" style="width:150px" />  
@@ -117,7 +125,7 @@ School of Earth Sciences and Engineering
 Nanjing University, 163 Xianlin Avenue,  
 Nanjing, Jiangsu 210023, P.R.China  
 E-mail: <szshen@nju.edu.cn>  
-**Prof. Shu-zhong Shen** is a Professor at the School of Earth Sciences and Engineering of Nanjing University and a Member of Chinese Academy of Sciences. He was the former Chair of the Subcommission on Permian Stratigraphy and the current Vice-Chair of the International Commission on Stratigraphy. His main research interests include Permian brachiopods, conodonts, biostratigraphy, diversity patterns, end-Permian mass extinction and environmental changes in deep time.  
+**Prof. Shu-zhong Shen** is a Professor at the School of Earth Sciences and Engineering of Nanjing University and a Member of Chinese Academy of Sciences. He was the former Chair of the Subcommission on Permian Stratigraphy and the current Vice-Chair of the International Commission on Stratigraphy. His main research interests include Permian brachiopods, conodonts, biostratigraphy, diversity patterns, end-Permian mass extinction and environmental changes in deep time.    
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
@@ -148,7 +156,7 @@ School of Resources and Geosciences
 China University of Mining and Technology  
 1 Daxue Road, Xuzhou, Jiangsu 221116, P.R. China   
 E-mail: <dxyuan@cumt.edu.cn> 
-**Dr. Dongxun Yuan** is an Associate Professor at the School of Resources and Geosciences, China University of Mining and Technology. His primary research focuses on the Permian conodonts, biostratigraphy, paleobiogeography and global correlation.
+**Dr. Dongxun Yuan** is an Associate Professor at the School of Resources and Geosciences, China University of Mining and Technology. His primary research focuses on the Permian conodonts, biostratigraphy, paleobiogeography and global correlation.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Yichun Zhang.jpg" alt="" style="width:150px" />  
@@ -156,7 +164,7 @@ E-mail: <dxyuan@cumt.edu.cn>
 Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences  
 39 East Beijing Road, Nanjing, Jiangsu 210008, China  
 E-mail: <yczhang@nigpas.ac.cn>  
-**Prof.Yichun Zhang** is a professor of Palaeontology at Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences. His primary reseach is on the taxonomy, biostratigraphy and palaeobiogeography of Carboniferous and Permian foraminifers.
+**Prof.Yichun Zhang** is a professor of Palaeontology at Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences. His primary reseach is on the taxonomy, biostratigraphy and palaeobiogeography of Carboniferous and Permian foraminifers.  
 
 
 ### Corresponding members
