@@ -116,7 +116,8 @@ Instituto de Geociências
 Departamento de Paleontologia e Estratigrafia  
 LACONF - Laboratório de Conodontes e Foraminíferos  
 Porto Alegre, RS, Brazil  
-E-mail: <akscomazzon@ufrgs.br>
+E-mail: <akscomazzon@ufrgs.br>  
+**Prof. Ana Karina Scomazzon** is a professor of Biostratigraphy, Micropaleontology, Paleobiogeography and Sedimentary Processes at the Federal University of Rio Grande do Sul, in southern Brazil. Her research is on taxonomy, biostratigraphy, paleoecology, paleobiogeography and geochemistry of Devonian, Carboniferous and Permian conodonts in Western Gondwana.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
