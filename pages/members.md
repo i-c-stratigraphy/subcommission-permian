@@ -156,7 +156,7 @@ E-mail: <l.weldon@deakin.edu.au>
 School of Resources and Geosciences  
 China University of Mining and Technology  
 1 Daxue Road, Xuzhou, Jiangsu 221116, P.R. China   
-E-mail: <dxyuan@cumt.edu.cn> 
+E-mail: <dxyuan@cumt.edu.cn>  
 **Dr. Dongxun Yuan** is an Associate Professor at the School of Resources and Geosciences, China University of Mining and Technology. His primary research focuses on the Permian conodonts, biostratigraphy, paleobiogeography and global correlation.  
 
 
