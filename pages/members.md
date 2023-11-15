@@ -107,6 +107,7 @@ Freiberg University of Mining and Technology
 Institute of Geology, Department of Palaeontology,  
 Bernhard-von-Cotta-Str.2, Freiberg, D-09596, Germany  
 E-mail: <schneiderj-geo@gmx.de>  
+**Prof. Joerg (“Jogi”) W. Schneider** was Professor for Palaeontology and Stratigraphy and the Head of the Department for Palaeontology and Stratigraphy Technical University Berg­aka­de­mie Freiberg; retired 2016 but still member of the university. He was the former Vice-Chair of the Subcommission on Permian Stratigraphy and leads till now the Late Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group (SCCS, SPS, STS). His primary research focus on Carboniferous, Permian and Triassic non-marine biota, taxonomy, biostratigraphy, palaeobiogeography and global correlation.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Ana Karina2.jpg" alt="" style="width:150px" />  
