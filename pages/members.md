@@ -27,9 +27,12 @@ E-mail: <abiakov@mail.ru>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
-Landesamt für Bergbau, Energie und Geologie  
-Stilleweg 2, 30655 Hannover, Germany  
-E-mail: <Annette.Goetz@lbeg.niedersachsen.de>  
+Department of Structural Geology and Geodynamics  
+Georg August University Göttingen  
+Goldschmidtstr. 3  
+D-37077 Göttingen, Germany  
+E-mail: <annetteelisabth.goetz@uni-goettingen.de>  
+**Dr. Annette E. Götz** is a visiting lecturer and adjunct research scientist at the Department of Structural Geology and Geodynamics, Göttingen University, Germany. Her broad spectrum of basic and applied research ranges from late Palaeozoic and Mesozoic palynology with a focus on palaeoenvironment and palaeoclimate reconstruction to sedimentary geochemistry and energy resources.
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
