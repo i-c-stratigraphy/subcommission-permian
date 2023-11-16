@@ -179,14 +179,6 @@ If you would like to join in SPS corresponding member and receive SPS Newsletter
 
 ### Honorary members
 
-<img src="https://stratigraphy.org/subcommission-permian/images/20121031221431824.jpg" alt="" style="width:150px" />  
-**Prof. Giuseppe Cassinis**  
-Earth Sciences Dept.  
-via Abbiategraso N. 217  
-Pavia 27100 Italy  
-E-mail: <cassinis@unipv.it>  
-
-
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027202855512.jpg" alt="" style="width:150px" />  
 **Dr. Boris I. Chuvashov**  
 Institute of Geology and Geochemistry  
