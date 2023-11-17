@@ -102,6 +102,7 @@ Dipartimento di Scienze della Terra e dell’Ambiente
 Università di Pavia-Via Ferrata 1, 27100 PV, Italy  
 voice +39-0382-9858  
 E-mail: <ausonio.ronchi@unipv.it>  
+**Prof. Ausonio Ronchi** is a professor of Stratigraphy and Regional Geology at UNIPV. His main research focus is on the continental late Carboniferous to Middle Triassic successions from and W peri-Tethys (Italy, Europe and  Mediterranean regions), with chrono-biostratigraphical, palaeoecological insights and marine-nonmarine correlation.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Schneider Joerg W..jpg" alt="" style="width:150px" />  
