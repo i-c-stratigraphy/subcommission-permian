@@ -6,20 +6,21 @@ permalink: /working-groups
 ## Working Groups
 
 * [Kungurian-base GSSP Working Group](#sps_Ku)
-* [Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group](#correlation)
-* [Correlation between marine and continental Guadalupian Working Group](#GL)
+* [Correlation between marine and continental Guadalupian Working Group](#correlation)
+* [Correlation between marine and continental Carboniferous-Permian Transition Working Group](#CPC)
 * [Gondwana to Euramerica correlations Working Group](#GEC)
 
 <a id="sps_Ku"></a>
 ### Kungurian-base GSSP Working Group
 Leader: Prof. Charles Henderson
 
-
 <a id="correlation"></a>
+### Correlation between marine and continental Guadalupian Working Group
+
+<a id="CPC"></a>
 ### Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group 
 
 Leader: Prof. Joerg Schneider
-
 
 Dear Permian community,
 
@@ -41,10 +42,6 @@ The Chair of the SPS, Shuzong Shen, and his Vice-Chair, Joerg W. Schneider, in 2
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Fig 19 Processes.jpg" alt="" style="width:600px" />  
 Synopsis of significant global and regional processes of geotectonics, paleoclimate, depositional environments and biota during the late Carboniferous to Middle Triassic
-
-<a id="GL"></a>
-### Correlation between marine and continental Guadalupian Working Group
-Leader: Prof. Charles Henderson
 
 <a id="GEC"></a>
 ### Gondwana to Euramerica correlations Working Group
