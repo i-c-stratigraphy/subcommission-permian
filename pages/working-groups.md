@@ -5,14 +5,14 @@ permalink: /working-groups
 ---
 ## Working Groups
 
-* [Artinskian-base and Kungurian-base GSSP Working Group](#sps_AK)
+* [Kungurian-base GSSP Working Group](#sps_Ku)
 * [Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group](#correlation)
 * [Correlation between marine and continental Guadalupian Working Group](#GL)
 * [Gondwana to Euramerica correlations Working Group](#GEC)
 
-<a id="sps_AK"></a>
-### Artinskian-base and Kungurian-base GSSP Working Group
-Leader: Prof. Valery Chernykh
+<a id="sps_Ku"></a>
+### Kungurian-base GSSP Working Group
+Leader: Prof. Charles Henderson
 
 **Dal'ny Tulkas section as GSSP lower boundary of Artinskian Stage**
 
