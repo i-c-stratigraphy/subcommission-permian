@@ -14,40 +14,6 @@ permalink: /working-groups
 ### Kungurian-base GSSP Working Group
 Leader: Prof. Charles Henderson
 
-**Dal'ny Tulkas section as GSSP lower boundary of Artinskian Stage**
-
-Dal'ny Tulkas section was proposed as GSSP lower boundary of Artinskian Stage in 2005 on the basis of the study of conodonts, fusulinaceans, ammonoids and radiolarians (Chernykh et al., 2005). The comprehensive paleontological research, which include the study of conodonts, ammonoids, foraminifera, radiolarians, trilobites have been carried out in the boundary Sakmarskian-Artinskian interval of the section for the subsequent years. The lithologic, radiometric studies the study of the of strontium isotopes, stable isotopes C and O have been also performed, geochemical and magnetostratigraphic investigations have been carried out. 
-All carried out works were found under close attention and were accompanied by the personal participation of the chairman of the Permian commission of the Interdepartmental Stratigraphic committee of Russia Galina Vasilyevna Kotlyar.
-
-Only the main list of publications with the results of studying the Dal'ny Tulkas section includes more than 20 articles.
-
-The section was demonstrated to domestic and foreign specialists in 2007 and in 2015. 
-
-The following works are currently being completed:
-
-1. Valery Chernykh and Charles Henderson are finishing the article on the taxonomic position of conodonts of the marker-species of the lower boundary of the Artinskian Stage in the Dal'ny Tulkas section. This species was previously assigned to Sweetognathus aff. whitei (Rhodes). The article will be published in Permophiles 70.
-
-2. The collection of radiolarians and photographs of radiolarians from the Dal’ny Tulkas section have been prepared and will be submitted by M.S. Afanasyeva (Paleontological Institute, RAS) for identification.
-
-3. Additional clearing of the Dal’ny Tulkas section will be resumed in the spring of 2021.
-
-Our proposal for the Dal’ny Tyulkas open-pit mine as GSSP lower boundary of the Artinskian Stage will be voted on by the Subcomission on Permian Stratigraphy in 2021 after the completion of these works.
-
-**Mechetlino section as GSSP lower boundary of Kungurian Stage**
-
-Mechetlino section was proposed as a stratotype for the Lower boundary of the Kungurian Stage of the General Stratigraphic Scale at the beginning of this century (Chuvashov, Chernykh, 2000).The Mechetlino section was additionally opened by vertical walls at three levels in 2017 in connection with the creation of the Yangan-Tau Geopark. Additional samples taken for conodonts reduced the gap between the nearest Artinskian and Kungurian levels with conodonts to less than one meter.  
-
-The complex paleontological studies have been carried out in the boundary Artinskian-Kungurian interval, opened by a quarry. These researches include the study of ammonoids, foraminifera, trilobites, fish, and conodonts used as marker-species for the lower boundary of the Kungurian Stage, and the possibility of a global correlation of this boundary (Chernykh et al., 2020).  
-
-Here, detailed lithological and geochemical studies, the study of strontium isotopes, of the stable isotopes C and O were studied, and magnetostratigraphic investigations have been carried out. The results of the study of the Mechetlino section in the light of the requirements for the section submitted to the International Commission on Stratigraphy as a GSSP for the Lower boundary of the Stage have been published in Permophiles, n. 69 (Chernykh, 2020) and in Palaeoworld, v. 29, Issue 2 (Chernykh et al., 2020).  
-
-The Mechetlino section was proposed as a GSSP for the base of the Kungurian Stage of the International Stratigraphic Scale according to the results of the executed studies (Chuvashov, Chernykh, 2011).  
-
-Only the main list of publications with the results of studying the Mechetlino section includes more than 30 articles.  
-
-The section was demonstrated to domestic and foreign specialists in 2007 and in 2015.  
-
-Our proposal for the Mechetlino section as GSSP Lower boundary of the Kungurian Stage can be voted on by the Subcomission on Permian Stratigraphy.  
 
 <a id="correlation"></a>
 ### Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group 
