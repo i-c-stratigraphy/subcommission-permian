@@ -16,6 +16,7 @@ Leader: Prof. Charles Henderson
 
 <a id="correlation"></a>
 ### Correlation between marine and continental Guadalupian Working Group
+Leader: Prof. Charles Henderson
 
 <a id="CPC"></a>
 ### Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group 
