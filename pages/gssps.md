@@ -45,7 +45,8 @@ permalink: /gssps
         <td>base of Bed n6L in the newly exposed Penglaitan section</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121023220414005.jpg">FAD of Clarkina postbitteri</a></td>
         <td>Ratified 2004, redefinition ratified 2023</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/base Wuchiapingian.pdf">Episodes 29/4, p. 253-262, 2006</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/base Wuchiapingian.pdf">Episodes 29/4, p. 253-262, 2006</a>
+        <a href="https://stratigraphy.org/subcommission-permian/files/IUGS2345-2.pdf">Episodes, in press</a></td>
     </tr>    
     <tr style="background-color:#cdcd00;">
         <td colspan="8" style="background-color:#D2E6F0;"><strong>Guadalupian Series</strong></td>
