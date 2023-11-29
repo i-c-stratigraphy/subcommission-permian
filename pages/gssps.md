@@ -124,7 +124,7 @@ B: The evolutionary lineage of Neostreptognathodus pequopensis Behnken – N. pn
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121101141806829.jpg">Aidaralash Creek, Kazakhstan</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102221720190.jpg">50.2458°N 57.8914°E</a></td>
         <td>27m above the base of Bed 19, Aidaralash Creek</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121106095252405.png">Conodont FAD of isolated-nodular morphotype of Streptognathodus </a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/images/20121106095252405.png">Conodont FAD of Streptognathodus isolatus </a></td>
         <td>Ratified 1996</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/files/Asselian.pdf">Episodes 21/1, p. 11-18, 1998</a></td>
      </tr>
