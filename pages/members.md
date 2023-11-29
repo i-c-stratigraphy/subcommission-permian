@@ -47,7 +47,7 @@ US Geological Survey
 Neil Griffis BOX 25046, Mail Stop 963  
 1 Denver Federal Center, Denver, Co 80225-0001, USA  
 E-mail: <ngriffis@usgs.gov>   
-Dr. Neil Patrick Griffis is a permeant Research Geologist at the USGS. His interests are in building high precision U-Pb zircon geochronologic frameworks to test drivers behind climatic change in deep time and to understand the timing and duration of ore forming processes
+**Dr. Neil Patrick Griffis** is a permeant Research Geologist at the USGS. His interests are in building high precision U-Pb zircon geochronologic frameworks to test drivers behind climatic change in deep time and to understand the timing and duration of ore forming processes
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
 **[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
