@@ -6,16 +6,11 @@ permalink: /working-groups
 ## Working Groups
 
 * [Kungurian-base GSSP Working Group](#sps_Ku)
-* [Correlation between marine and continental Guadalupian Working Group](#correlation)
 * [Correlation between marine and continental Carboniferous-Permian Transition Working Group](#CPC)
 * [Gondwana to Euramerica correlations Working Group](#GEC)
 
 <a id="sps_Ku"></a>
 ### Kungurian-base GSSP Working Group
-Leader: Prof. Charles Henderson
-
-<a id="correlation"></a>
-### Correlation between marine and continental Guadalupian Working Group
 Leader: Prof. Charles Henderson
 
 <a id="CPC"></a>
