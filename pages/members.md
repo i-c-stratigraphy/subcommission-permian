@@ -35,12 +35,19 @@ E-mail: <annetteelisabth.goetz@uni-goettingen.de>
 **Dr. Annette E. Götz** is a visiting lecturer and adjunct research scientist at the Department of Structural Geology and Geodynamics, Göttingen University, Germany. Her broad spectrum of basic and applied research ranges from late Palaeozoic and Mesozoic palynology with a focus on palaeoenvironment and palaeoclimate reconstruction to sedimentary geochemistry and energy resources.
 
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Griffis.jpg" alt="" style="width:150px" />  
 **Dr. Valeriy K. Golubev**  
 Borissiak Paleontological Institute, Russian Academy of Sciences  
 Profsoyuznaya str. 123, Moscow, 117997 Russia  
 E-mail: <vg@paleo.ru>  
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />   
+**Dr. Neil Patrick Griffis**  
+US Geological Survey  
+Neil Griffis BOX 25046, Mail Stop 963  
+1 Denver Federal Center, Denver, Co 80225-0001, USA  
+E-mail: <ngriffis@usgs.gov>   
+Dr. Neil Patrick Griffis is a permeant Research Geologist at the USGS. His interests are in building high precision U-Pb zircon geochronologic frameworks to test drivers behind climatic change in deep time and to understand the timing and duration of ore forming processes
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
 **[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
