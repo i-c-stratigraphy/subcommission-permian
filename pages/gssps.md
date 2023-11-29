@@ -59,7 +59,8 @@ permalink: /gssps
         <td>4.5m above the base of the outcrop section of the Pinery Limestone Member of the Bell Canyon Formation</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121103194210859.jpg" title="_Jinogondolella postserrata_ (Behnken) from the Glass Mountains. The first occurrence of this species is defined as the base of the Capitanian Stage (after Wardlaw, 2000, The Guadalupian Syposium)">FAD of Jinogondolella postserrata</a></td>
         <td>Ratified 2001</td>
-        <td><a href="https://stratigraphy.org/subcommission-permian/files/Shen et al., 2022.pdf">Episodes 45, p. 309-331, 2022</a></td>
+        <td><a href="https://stratigraphy.org/subcommission-permian/files/Proposals of Guadalupian.pdf">Permophiles 34  p. 3-11, 1999; </a>
+        <a href="https://stratigraphy.org/subcommission-permian/files/Shen et al., 2022.pdf">Episodes 45, p. 309-331, 2022</a></td>
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wordian-stage">Wordian Stage</a></td>
