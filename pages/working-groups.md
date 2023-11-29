@@ -14,7 +14,7 @@ permalink: /working-groups
 Leader: Prof. Charles Henderson
 
 <a id="CPC"></a>
-### Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group 
+### Correlation between marine and continental Carboniferous-Permian Transition Working Group
 
 Leader: Prof. Joerg Schneider
 
