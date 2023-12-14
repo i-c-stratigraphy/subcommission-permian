@@ -4,6 +4,7 @@ title: "News"
 permalink: /news
 ---
 ## News
+* [SPS funding announcement](http://stratigraphy.org/subcommission-permian/news/2023-12-14) [ 2023-12-14 ]  
 * [Call for funded projects](http://stratigraphy.org/subcommission-permian/news/2023-11-04) [ 2023-11-04 ] 
 * [IUGS ratification to ICS Redefinition of base-Wuchiapingian GSSP](http://stratigraphy.org/subcommission-permian/news/2023-07-25) [ 2023-07-25 ] 
 * [The SABS for the base of the Wuchiapingian Stage has been approved by SPS](http://stratigraphy.org/subcommission-permian/news/2023-05-01-2) [ 2023-05-01 ] 
