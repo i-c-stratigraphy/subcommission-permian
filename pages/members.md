@@ -38,8 +38,10 @@ E-mail: <annetteelisabth.goetz@uni-goettingen.de>
 <img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
 **Dr. Valeriy K. Golubev**  
 Borissiak Paleontological Institute, Russian Academy of Sciences  
-Profsoyuznaya str. 123, Moscow, 117997 Russia  
+Profsoyuznaya str. 123, Moscow, 117647 Russia  
 E-mail: <vg@paleo.ru>  
+**Dr. Valeriy K. Golubev** is a senior scientific researcher at Borissiak Paleontological Institute, Russian Academy of Sciences. His primary research is on the taxonomy, phylogeny, taphonomy, palaeoecology, palaeobiogeography and biostratigraphy of Permian tetrapods from Eastern Europe and on the middle-late Permian and early Triassic historical geology of East European Platform.
+
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Griffis.jpg" alt="" style="width:150px" />   
 **Dr. Neil Patrick Griffis**  
@@ -48,6 +50,7 @@ Neil Griffis BOX 25046, Mail Stop 963
 1 Denver Federal Center, Denver, Co 80225-0001, USA  
 E-mail: <ngriffis@usgs.gov>   
 **Dr. Neil Patrick Griffis** is a Research Geologist at the USGS. His interests are in building high precision U-Pb zircon geochronologic frameworks to test drivers behind climatic change in deep time and to understand the timing and duration of ore forming processes
+
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
 **[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
@@ -58,6 +61,7 @@ Canada T2N1N4
 E-mail: <cmhender@ucalgary.ca>  
 **Prof. Charles Henderson** is a Professor at the University of Calgary and a former Secretary and Chair of the Subcommission on Permian Stratigraphy. His primary research considers conodont biostratigraphy, evolution and paleobiology from many sites around the world in order to refine the Permian and Early Triassic Geologic Time Scale.  
 
+
 <img src="https://stratigraphy.org/subcommission-permian/images/Hana.jpeg" alt="" style="width:150px" />  
 **Dr. Hana Jurikova**  
 School of Earth and Environmental Sciences, University of St Andrews  
@@ -66,6 +70,7 @@ St Andrews, KY16 9TS,
 United Kingdom  
 Email: <hj43@st-andrews.ac.uk>  
 **Dr Hana Jurikova** is a Research Fellow at the University of St Andrews. Hana is an isotope geochemist, with her main research focusing on palaeo-climate and palaeo-seawater reconstructions. Hana's interests also include Permian brachiopods and brachiopod biomineralisation, biodiversity patterns, the Permian-Triassic mass extinction and evaporitic deposits.   
+
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Sam2.jpg" alt="" style="width:150px" />  
 **Dr. Sam Lee**  
