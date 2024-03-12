@@ -60,7 +60,7 @@ Henderson, C.M., Shen, S.Z. 2024. Call to develop two new working groups: the ba
 Lucas, S.G. 2024. The Permian Guadalupian stages: how politics and conodonts produced an unworkable chronostratigraphy. Permophiles, 76:9-11.  
 Shen, SZ, Yuan, DX, Henderson, C.M., Lambert, L.L., Zhang, YC, Erwin, D.H., Ramezani, J., Wang, XD, Zhang, H., Wu, Q., Wang, WQ., Hearst, J.M., Chen, J., Wang, Y., Qie, WK., Qi, YP., Wardlaw, B.R., 2022 accepted. The Global Stratotype Section and Point (GSSP) for the Capitanian Stage (Guadalupian, Middle Permian). Episodes, v. 45 (3): 309-331.  
 
-**Composition of the Roadian Working Group*  
+**Composition of the Roadian Working Group**  
 Chair: Charles M. Henderson (Department of Earth, Energy, and Environment, University of Calgary, Canada)  
 Vice-Chair: Shuzhong Shen (School of Earth Sciences and Engineering, Nanjing University, China)  
 Current Members:
