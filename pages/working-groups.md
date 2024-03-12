@@ -13,6 +13,36 @@ permalink: /working-groups
 ### Kungurian-base GSSP Working Group
 Leader: Prof. Charles Henderson
 
+The Kungurian Stage is the only stage that has not been ratified with a Global Stratotype Section and Point within the Permian System. In 2012 there was a general consensus regarding a GSSP level marked by the FO of _Neostreptognathodus pnevi_. Two sections were proposed including the Mechetlino section in Russia (Chernykh et al., 2012) and the Rockland section in Nevada, USA (Henderson et al., 2012). Additional work was published for the Mechetlino Section (Chernykh et al., 2020). However, the Mechetlino section is no longer available owing to scientific sanctions by the IUGS because of Russia’s invasion of Ukraine. It was announced in _Permophiles_ 74 that SPS would move ahead with a GSSP proposal for the Rockland Section in Nevada (Angiolini et al., 2023). A working group has been formed and progress is occurring (Henderson, 2023; Henderson, 2024). The working group is charged with preparing and reviewing a proposal for the Rockland Section. The working group will also describe the Mechetlino section as a supplementary reference section and consider correlation into other regions including the nearby Carlin Canyon section, as well as other sections in SW USA (see Lucas et al., 2022 for example) and South China. The proposal will then be presented to SPS for voting.
+
+Current plans include a field excursion to the site May 17-24, 2024 to collect fusulinid samples.
+
+**References**
+
+Angiolini, L., Beauchamp, B., Bratton, L., Fraser, B., Henderson, C., Synder, W. and Zanchi, A., 2023. The once and future quest: the Kungurian GSSP candidate at Rockland Section and SABS at Carlin Canyon, Nevada. Permophiles, n. 74, p. 37–41.
+Chernykh, V.V., Chuvashov, B.I., Davydov, V.I. and Schmitz, M.D., 2012. Mechetlino Section: A candidate for the Global Stratotype and Point (GSSP) of the Kungurian Stage (Cisuralian, Lower Permian). Permophiles, n. 56, p. 21–34.
+Chernykh, V.V., Kotlyar, G.V., Chuvashov, B.I., Kutygin, R.V., Filimonova, T.V., Sungatullina, G.M., Mizens, G.A.,Sungatullin, R.K., Isakova, T.N., Boiko, M.S., Ivanov, A.O., Nurgalieva, N. G., Balabanov, V.Y.P., Mychko, E.V., Garrev, B.I. and Batalin, G.A., 2020. Multidisciplinary study of the Mechetlino Quarry section (southern Urals, Russia) – The GSSP candidate for the base of the Kungurian Stage (Lower Permian). Palaeoworld, 29: 325–352.
+Henderson, C.M., 2023. Working Group announcement and progress on the base-Kungurian GSSP proposal. Permophiles, n. 75, p. 8.
+Henderson, C.M., 2024. Base-Kungurian GSSP Working Group progress. Permophiles, n. 76, p. 8-9.
+Henderson, C.M., Wardlaw, B.R., Davydov, V.I., Schmitz, M.D, Schiappa, T.A., Tierney, K.E. and Shen, S.Z., 2012. Proposal for the base-Kungurian GSSP. Permophiles, n. 56, p. 8–21.
+Lucas, S.G., Henderson, C.M., Barrick, J.E., Krainer, K., 2022. Conodonts and the correlation of the Lower Permian Yeso Group, New Mexico, USA. Stratigraphy, 19(2), p. 77-94.
+
+**Composition of the Kungurian Working Group**
+
+Chair: Charles M. Henderson (Department of Earth, Energy, and Environment, University of Calgary, Canada)
+Current Members:
+Lucia Angiolini (Universita degli Studi di Milano, Italy)
+Benoit Beauchamp (Department of Earth, Energy, and Environment, University of Calgary)
+Luke Bratton (Department of Earth, Energy, and Environment, University of Calgary)
+Neil Griffis (USGS, Denver, Co., USA)
+Hana Jurikova (University of St. Andrews, St. Andrews, UK)
+Lorenzo Marchetti (Museum fur Naturkunde, Berlin, Germany)
+Michael Read (Stephen F. Austin State University, USA)
+Tamra Schiappa (Department of Geography, Geology and the Environment, Slippery Rock University, PA. USA)
+Walter S. Snyder (Boise State University, ID., USA)
+Kate Tierney (University of Iowa, USA)
+Dongxun Yuan (School of Resources and Geosciences, China University of Mining and Technology, Xuzhou, China)
+
 <a id="CPC"></a>
 ### Correlation between marine and continental Carboniferous-Permian Transition Working Group
 
