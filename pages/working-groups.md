@@ -45,6 +45,43 @@ Walter S. Snyder (Boise State University, ID., USA)
 Kate Tierney (University of Iowa, USA)  
 Dongxun Yuan (School of Resources and Geosciences, China University of Mining and Technology, Xuzhou, China)  
 
+<a id="sps_Ro"></a>
+### Base-Roadian Working Group  
+Leader: Prof. Charles Henderson  
+
+The Guadalupian Series (Middle Permian) consists of three stages (Roadian, Wordian and Capitanian in ascending order) that were ratified by IUGS in 2001. All three GSSPs were presented in a single proposal (Glenister et al., 1999), but detailed descriptions of these sections were not published in Episodes, as is the norm for ratified GSSPs. A group of researchers led by Shuzhong Shen investigated the three sections in the Guadalupe Mountains in order to provide additional correlation data and publish in _Episodes_. The Capitanian was published in _Episodes_ in 2022 (Shen et al., 2022), but the other two boundaries proved to be more problematic. The problems and progress of the Roadian and Wordian can be seen in the presentation by Shuzhong Shen and Charles Henderson on October 24, 2023 (see link provided below) and in Permophiles 76 (Henderson and Shen, 2024; Henderson, 2024; Lucas, 2024). SPS voting members meeting on zoom in December 2023 decided that working groups would be established to investigate the Roadian and Wordian.  Voting members agreed that the Roadian GSSP section is a good section, but opinions varied regarding the correlation potential of the chosen level, which is marked by the FO of _Jinogondolella nankingensis_. The working group is therefore charged to consider whether the boundary can remain at its current level or revised a few metres higher. The working group will also consider a Standard Auxiliary Boundary Stratotype section (SABS) at the Maweishan section in south China. Finally, a manuscript will be prepared that either proposes a new level or provides new details regarding the current GSSP level to be published in _Episodes_.  
+
+<https://permian.stratigraphy.org/Interests/Shuzhong%20and%20Charles>   
+
+**References**  
+Glenister, B.F., Wardlaw, B.R., Lambert, L.L., Spinosa, C., Bowring, S.A., Erwin, D.H., Menning, M., Wilde, G.L. 1999. Proposal of Guadalupian and component Roadian, Wordian and Capitanian Stages as international standards for the Middle Permian. Permophiles 34:3-11.  
+Henderson, C.M. 2024. The Permian Guadalupian stages: How collaborative science and conodonts can produce a workable chronostratigraphy. Permophiles 76:11-13.  
+Henderson, C.M., Shen, S.Z. 2024. Call to develop two new working groups: the base-Roadian GSSP Working Group and the base-Wordian GSSP Working Group. Permophiles, 76:8.  
+Lucas, S.G. 2024. The Permian Guadalupian stages: how politics and conodonts produced an unworkable chronostratigraphy. Permophiles, 76:9-11.  
+Shen, SZ, Yuan, DX, Henderson, C.M., Lambert, L.L., Zhang, YC, Erwin, D.H., Ramezani, J., Wang, XD, Zhang, H., Wu, Q., Wang, WQ., Hearst, J.M., Chen, J., Wang, Y., Qie, WK., Qi, YP., Wardlaw, B.R., 2022 accepted. The Global Stratotype Section and Point (GSSP) for the Capitanian Stage (Guadalupian, Middle Permian). Episodes, v. 45 (3): 309-331.  
+
+**Composition of the Roadian Working Group*  
+Chair: Charles M. Henderson (Department of Earth, Energy, and Environment, University of Calgary, Canada)  
+Vice-Chair: Shuzhong Shen (School of Earth Sciences and Engineering, Nanjing University, China)  
+Current Members:
+Neil Griffis (USGS, Denver, Co., USA)  
+Hana Jurikova (University of St. Andrews, St. Andrews, UK)  
+Lance Lambert (University of Texas at San Antonio, USA)  
+Lorenzo Marchetti (Museum fur Naturkunde, Berlin, Germany)  
+Galina Nestell (University of Texas at Austin, USA)  
+Michael Read (Stephen F. Austin State University, USA)  
+Ausonio Ronchi (Universita di Pavia, Italy)  
+Michael Stephenson (Stephenson Geoscience Consulting, Nottingham, UK)  
+Dongxun Yuan (School of Resources and Geosciences, China University of Mining and Technology, China)  
+Quanfeng Zheng (Nanjing Institute of Geology and Palaeontology, China)  
+
+I think you could add this picture to accompany the two working group descriptions.
+<img src="http://stratigraphy.org/subcommission-permian/files/charles and Shen.jpg" alt="permophile thumbnail" /><br />
+
+
+
+
+
 <a id="CPC"></a>
 ### Correlation between marine and continental Carboniferous-Permian Transition Working Group
 
