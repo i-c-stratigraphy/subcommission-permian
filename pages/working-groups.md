@@ -5,12 +5,12 @@ permalink: /working-groups
 ---
 ## Working Groups
 
-* [base-Kungurian Working Group](#sps_Ku)
+* [Base-Kungurian Working Group](#sps_Ku)
 * [Correlation between marine and continental Carboniferous-Permian Transition Working Group](#CPC)
 * [Gondwana to Euramerica correlations Working Group](#GEC)
 
 <a id="sps_Ku"></a>
-### base-Kungurian Working Group
+### Base-Kungurian Working Group
 Leader: Prof. Charles Henderson
 
 The Kungurian Stage is the only stage that has not been ratified with a Global Stratotype Section and Point within the Permian System. In 2012 there was a general consensus regarding a GSSP level marked by the FO of _Neostreptognathodus pnevi_. Two sections were proposed including the Mechetlino section in Russia (Chernykh et al., 2012) and the Rockland section in Nevada, USA (Henderson et al., 2012). Additional work was published for the Mechetlino Section (Chernykh et al., 2020). However, the Mechetlino section is no longer available owing to scientific sanctions by the IUGS because of Russia’s invasion of Ukraine. It was announced in _Permophiles_ 74 that SPS would move ahead with a GSSP proposal for the Rockland Section in Nevada (Angiolini et al., 2023). A working group has been formed and progress is occurring (Henderson, 2023; Henderson, 2024). The working group is charged with preparing and reviewing a proposal for the Rockland Section. The working group will also describe the Mechetlino section as a supplementary reference section and consider correlation into other regions including the nearby Carlin Canyon section, as well as other sections in SW USA (see Lucas et al., 2022 for example) and South China. The proposal will then be presented to SPS for voting.
