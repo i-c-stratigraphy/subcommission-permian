@@ -80,13 +80,13 @@ I think you could add this picture to accompany the two working group descriptio
 
 <a id="sps_Wo"></a>
 ### Base-Wordian Working Group  
-Leader: Prof. Shuzhong Shen
+Leader: Prof. Shuzhong Shen  
 
 The Guadalupian Series (Middle Permian) and its constituted three stages (Roadian, Wordian and Capitanian in ascending order), as the international standard chronostratigraphcial units, were proposed by Glenister et al. (1992) and was formally agreed by the Subcommission on Permian Stratigraohy (SPS) (Jin et al., 1997). The base-Wordian GSSP at Getaway Ledge in the Guadalupe Mountains National Park, Texas defined by the First Appearance Datum (FAD) of the conodont _Jinogondolella aserrata_, was briefly described and proposed by Glenister et al. (1992, 1999), the SPS vote result was reported in _Permophiles_ 35 (1999; p. 4), and the proposal was ratified by ICS and IUGS in 2001.  
 Subsequent researches (Yuan et al., 2021; Shen et al., 2020; also see comments by Lucas, 2004 and Henderson, 2024) revealed that the conodont marker to correlate the boundary by the FAD of _Jinogondolella aserrata_ has not been found in the bed marked by the golden spike, but it first occurs in some unknown horizon in the underlying unfossiliferous Cherry Canyon Sandstone at the Getaway Ledge section. This makes the establishment of the FO of the species impossible in the short carbonate unit.  
 In December 2023, the SPS voting members unanimously reached the conclusion that the base-Wordian should be redefined (Henderson and Shen, 2024). A working group has thus been established to restudy the original GSSP and search new candidates for the base-Wordian GSSP if necessary.  
 
-**References**
+**References**  
 Glenister, B. F., Boyd, D. W., Furnish, W. M., Grant, R. E., Harris, M. T., Kozur, H., Lambert, L. L., Nassichuk, W. W., Newell, N. D., Pray, L. C., Spinosa, C., Wardlaw, B. R., Wilde, G. L., Yancey, T. E. 1992. The Guadalupian: Proposed international standard for a Middle Permian series. International Geology Review 34(9):857-888.  
 Glenister, B.F., Wardlaw, B.R., Lambert, L.L., Spinosa, C., Bowring, S.A., Erwin, D.H., Menning, M., Wilde, G.L. 1999. Proposal of Guadalupian and component Roadian, Wordian and Capitanian Stages as international standards for the Middle Permian. Permophiles 34:3-11.  
 Henderson, C.M. 2024. The Permian Guadalupian stages: How collaborative science and conodonts can produce a workable chronostratigraphy. Permophiles 76:11-13.  
@@ -96,9 +96,9 @@ Lucas, S.G. 2024. The Permian Guadalupian stages: how politics and conodonts pro
 Shen, S.Z., Yuan, D.X., Henderson, C.M., Wu, Q., Zhang, Y.C., Zhang, H., Mu, L., Ramezani, J., Wang, X.D., Lambert, L.L., Erwin, D.H., Hearst, J.M., Xiang, L., Chen, B., Fan, J.X., Wang, Y., Wang, W.Q., Qi, Y.P., Chen, J., Qie, W.K., Wang, T. T. 2020. Progress, problems and prospects: An overview of the Guadalupian Series of South China and North America. Earth-Science Reviews, 211:103412.  
 Yuan, D.X., Shen, S.Z., Henderson, C.M., Lambert, L.L., Hearst, J.M., Zhang, Y.C., Chen, J., Qie, W.K., Zhang, H., Wang, X.D., Qi, Y.P., Wu, Q. 2021. Reinvestigation of the Wordian-base GSSP section, West Texas, USA. Newsletters on Stratigraphy, 54(3):301-315.  
 
-**Composition of the base-Wordian Working Group**
+**Composition of the base-Wordian Working Group**  
 Shuzhong Shen (Chair, School of Earth Sciences and Engineering, Nanjing University, China)  
-Members:
+Members:  
 Lucia Angiolini (Milano University, Italy)  
 Charles Henderson (University of Calgary, Canada)  
 Jahan Ramezani (Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, USA)   
