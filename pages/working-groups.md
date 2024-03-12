@@ -76,7 +76,7 @@ Dongxun Yuan (School of Resources and Geosciences, China University of Mining an
 Quanfeng Zheng (Nanjing Institute of Geology and Palaeontology, China)  
 
 I think you could add this picture to accompany the two working group descriptions.
-<img src="https://stratigraphy.org/subcommission-permian/images/charles and Shen.jpg" alt="" style="width:600px" />  
+<img src="https://stratigraphy.org/subcommission-permian/images/Charles and Shen.jpg" alt="" style="width:600px" />  
 
 
 
