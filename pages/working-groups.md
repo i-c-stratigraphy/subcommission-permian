@@ -6,6 +6,8 @@ permalink: /working-groups
 ## Working Groups
 
 * [Base-Kungurian Working Group](#sps_Ku)
+* [Base-Roadian Working Group](#sps_Ro)
+* [Base-Wordian Working Group](#sps_Wo)
 * [Correlation between marine and continental Carboniferous-Permian Transition Working Group](#CPC)
 * [Gondwana to Euramerica correlations Working Group](#GEC)
 
