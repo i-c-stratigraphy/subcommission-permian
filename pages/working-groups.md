@@ -75,7 +75,6 @@ Michael Stephenson (Stephenson Geoscience Consulting, Nottingham, UK)
 Dongxun Yuan (School of Resources and Geosciences, China University of Mining and Technology, China)  
 Quanfeng Zheng (Nanjing Institute of Geology and Palaeontology, China)  
 
-I think you could add this picture to accompany the two working group descriptions.
 <img src="https://stratigraphy.org/subcommission-permian/images/Charles and Shen.jpg" alt="" style="width:600px" />  
 
 <a id="sps_Wo"></a>
