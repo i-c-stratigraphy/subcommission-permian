@@ -6,16 +6,6 @@ permalink: /members
 ## Members
 
 ### Voting members
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Lucia new photo.jpg" alt="" style="width:150px" />  
-**[Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)**  
-Dipartimento di Scienze Terra “A. DEsio”  
-Via Manggiagalli 34, 20133  
-Milano, Italy  
-E-mail: <lucia.angiolini@unimi.it>  
-**Prof. Lucia Angiolini** is a professor of Palaeontology at UNIMI. Her primary research is on the taxonomy and biostratigraphy of Carboniferous and Permian brachiopods from N Europe, the Mediterranean region, Arabia and Asia, and on the palaeoclimatological and palaeoecological implications of their study.  
-
-
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027115140687.jpg" alt="" style="width:150px" />  
 **Dr. Alexander Biakov**  
 Northeast Interdisciplinary Scientific Research Institute  
@@ -50,16 +40,6 @@ Neil Griffis BOX 25046, Mail Stop 963
 1 Denver Federal Center, Denver, Co 80225-0001, USA  
 E-mail: <ngriffis@usgs.gov>   
 **Dr. Neil Patrick Griffis** is a Research Geologist at the USGS. His interests are in building high precision U-Pb zircon geochronologic frameworks to test drivers behind climatic change in deep time and to understand the timing and duration of ore forming processes
-
-
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
-**[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
-Department of Earth, Energy and Environment,  
-University of Calgary  
-Calgary, Alberta  
-Canada T2N1N4  
-E-mail: <cmhender@ucalgary.ca>  
-**Prof. Charles Henderson** is a Professor at the University of Calgary and a former Secretary and Chair of the Subcommission on Permian Stratigraphy. His primary research considers conodont biostratigraphy, evolution and paleobiology from many sites around the world in order to refine the Permian and Early Triassic Geologic Time Scale.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Hana.jpeg" alt="" style="width:150px" />  
@@ -137,15 +117,6 @@ E-mail: <akscomazzon@ufrgs.br>
 **Prof. Ana Karina Scomazzon** is a professor of Biostratigraphy, Micropaleontology, Paleobiogeography and Sedimentary Processes at the Federal University of Rio Grande do Sul, in southern Brazil. Her research is on taxonomy, biostratigraphy, paleoecology, paleobiogeography and geochemistry of Devonian, Carboniferous and Permian conodonts in Western Gondwana.  
 
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
-**Prof. Shuzhong Shen**  
-School of Earth Sciences and Engineering  
-Nanjing University, 163 Xianlin Avenue,  
-Nanjing, Jiangsu 210023, P.R.China  
-E-mail: <szshen@nju.edu.cn>  
-**Prof. Shu-zhong Shen** is a Professor at the School of Earth Sciences and Engineering of Nanjing University and a Member of Chinese Academy of Sciences. He was the former Chair of the Subcommission on Permian Stratigraphy and the current Vice-Chair of the International Commission on Stratigraphy. His main research interests include Permian brachiopods, conodonts, biostratigraphy, diversity patterns, end-Permian mass extinction and environmental changes in deep time.    
-
-
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
 **[Prof. Michael H. Stephenson](https://www.bgs.ac.uk/people/stephenson-michael/)**  
 British Geological Survey  
@@ -191,6 +162,12 @@ If you would like to join in SPS corresponding member and receive SPS Newsletter
 * [list of SPS Corresponding Members](http://stratigraphy.org/subcommission-permian/files/Corre-members.pdf)
 
 ### Honorary members
+<img src="https://stratigraphy.org/subcommission-permian/images/Lucia new photo.jpg" alt="" style="width:150px" />  
+**[Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)**  
+Dipartimento di Scienze Terra “A. DEsio”  
+Via Manggiagalli 34, 20133  
+Milano, Italy  
+E-mail: <lucia.angiolini@unimi.it>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027202855512.jpg" alt="" style="width:150px" />  
 **Dr. Boris I. Chuvashov**  
@@ -199,6 +176,15 @@ Urals Baranch of the Russian Academy of Science
 Pochtovy per 7  
 Ekaterinburg 620154 Russia  
 E-mail: <chuvashov@igg.uran.ru>  
+
+
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027115452452.jpg" alt="" style="width:150px" />  
+**[Prof. Charles M. Henderson](http://www.ucalgary.ca/conodont/)**  
+Department of Earth, Energy and Environment,  
+University of Calgary  
+Calgary, Alberta  
+Canada T2N1N4  
+E-mail: <cmhender@ucalgary.ca>  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/20121027125242783.jpg" alt="" style="width:150px" />  
@@ -225,7 +211,18 @@ Slippery Rock University, Slippery Rock, PA 16057 USA
 E-mail: <tamra.schiappa@sru.edu>  
 
 
+<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
+**Prof. Shuzhong Shen**  
+School of Earth Sciences and Engineering  
+Nanjing University, 163 Xianlin Avenue,  
+Nanjing, Jiangsu 210023, P.R.China  
+E-mail: <szshen@nju.edu.cn>  
+
+
 ### Former Chairs
+<img src="https://stratigraphy.org/subcommission-permian/images/Lucia new photo.jpg" alt="" style="width:150px" />  
+**[Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)**  
+2020-2024
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Prof. Shen Shuzhong.jpg" alt="" style="width:150px" />  
 **Prof. Shuzhong Shen**  
