@@ -5,16 +5,14 @@ permalink: /officers
 ---
 ## Officers
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Lucia new photo.jpg" alt="" style="width:150px" />  
-**Chair**   
-[Prof. Lucia Angiolini](http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=16178)  
-Università degli Studi di Milano  
-Dipartimento di Scienze della Terra "A. Desio"  
-Via Mangiagalli 34  
-20133 MILANO Italy  
-Tel. 39-02-50315513  
-Fax  39-02-50315494  
-E-mail: <lucia.angiolini@unimi.it>  
+<img src="https://stratigraphy.org/subcommission-permian/images/Liz2.jpg" alt="" style="width:150px" />  
+**Chair**  
+**Dr. Elizabeth Weldon**  
+School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment  
+Deakin University  
+Locked Bag 20000, Geelong, VIC 3220  
++61 3 92517191  
+E-mail: <l.weldon@deakin.edu.au>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Mike new photo.JPG" alt="" style="width:150px" />  
 **Vice Chair**  
