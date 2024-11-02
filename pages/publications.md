@@ -23,15 +23,13 @@ E-mail: <yczhang@nigpas.ac.cn>
  
  or
  
-**Prof. Lucia Angiolini**  
+**Dr. Elizabeth Weldon**  
 _Chair_  
-Università degli Studi di Milano  
-Dipartimento di Scienze della Terra "A. Desio"  
-Via Mangiagalli 34  
-20133 MILANO, Italy  
-Tel. +39-02-50315513  
-Fax. +39-02-50315494  
-E-mail: <lucia.angiolini@unimi.it>  
+School of Life and Environmental Sciences, Faculty of Science Engineering & Built Environment  
+Deakin University  
+Locked Bag 20000, Geelong, VIC 3220  
++61 3 92517191  
+E-mail: <l.weldon@deakin.edu.au>  
  
 ### Annual Reports
 
