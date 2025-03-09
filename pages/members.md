@@ -6,15 +6,6 @@ permalink: /members
 ## Members
 
 ### Voting members
-<img src="https://stratigraphy.org/subcommission-permian/images/20121027115140687.jpg" alt="" style="width:150px" />  
-**Dr. Alexander Biakov**  
-Northeast Interdisciplinary Scientific Research Institute  
-Far East Branch, Russian Academy of Sciences,  
-Portovaya ul. 16, Magadan, 685000 Russia  
-E-mail: <abiakov@mail.ru>  
-**Dr. Alexander Biakov** is a head of Laboratory at NEISRI FEB RAS. His primary research is on the biostratigraphy, taxonomy, and palaeobiogeography of Permian marine bivalves, and on the palaeoclimatological and palaeoecological problems.  
-
-
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
 Department of Structural Geology and Geodynamics  
@@ -23,14 +14,6 @@ Goldschmidtstr. 3
 D-37077 Göttingen, Germany  
 E-mail: <annetteelisabth.goetz@uni-goettingen.de>  
 **Dr. Annette E. Götz** is a visiting lecturer and adjunct research scientist at the Department of Structural Geology and Geodynamics, Göttingen University, Germany. Her broad spectrum of basic and applied research ranges from late Palaeozoic and Mesozoic palynology with a focus on palaeoenvironment and palaeoclimate reconstruction to sedimentary geochemistry and energy resources.
-
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
-**Dr. Valeriy K. Golubev**  
-Borissiak Paleontological Institute, Russian Academy of Sciences  
-Profsoyuznaya str. 123, Moscow, 117647 Russia  
-E-mail: <vg@paleo.ru>  
-**Dr. Valeriy K. Golubev** is a senior scientific researcher at Borissiak Paleontological Institute, Russian Academy of Sciences. His primary research is on the taxonomy, phylogeny, taphonomy, palaeoecology, palaeobiogeography and biostratigraphy of Permian tetrapods from Eastern Europe and on the middle-late Permian and early Triassic historical geology of East European Platform.
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Griffis.jpg" alt="" style="width:150px" />   
@@ -154,6 +137,26 @@ Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences
 39 East Beijing Road, Nanjing, Jiangsu 210008, China  
 E-mail: <yczhang@nigpas.ac.cn>  
 **Prof.Yichun Zhang** is a professor of Palaeontology at Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences. His primary reseach is on the taxonomy, biostratigraphy and palaeobiogeography of Carboniferous and Permian foraminifers.  
+
+
+### Suspended Voting members
+<img src="https://stratigraphy.org/subcommission-permian/images/20121027115140687.jpg" alt="" style="width:150px" />  
+**Dr. Alexander Biakov**  
+Northeast Interdisciplinary Scientific Research Institute  
+Far East Branch, Russian Academy of Sciences,  
+Portovaya ul. 16, Magadan, 685000 Russia  
+E-mail: <abiakov@mail.ru>  
+**Dr. Alexander Biakov** is a head of Laboratory at NEISRI FEB RAS. His primary research is on the biostratigraphy, taxonomy, and palaeobiogeography of Permian marine bivalves, and on the palaeoclimatological and palaeoecological problems.  
+
+
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Dr. V.K.Golubev.jpg" alt="" style="width:150px" />  
+**Dr. Valeriy K. Golubev**  
+Borissiak Paleontological Institute, Russian Academy of Sciences  
+Profsoyuznaya str. 123, Moscow, 117647 Russia  
+E-mail: <vg@paleo.ru>  
+**Dr. Valeriy K. Golubev** is a senior scientific researcher at Borissiak Paleontological Institute, Russian Academy of Sciences. His primary research is on the taxonomy, phylogeny, taphonomy, palaeoecology, palaeobiogeography and biostratigraphy of Permian tetrapods from Eastern Europe and on the middle-late Permian and early Triassic historical geology of East European Platform.
+
 
 
 ### Corresponding members
