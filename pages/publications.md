@@ -33,6 +33,7 @@ E-mail: <l.weldon@deakin.edu.au>
  
 ### Annual Reports
 
+* [Annual Report 2024](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2024.pdf)
 * [Annual Report 2023](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2023.pdf)
 * [Annual Report 2022](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2022.pdf)
 * [Annual Report 2021](http://stratigraphy.org/subcommission-permian/files/Annual Reports 2021.pdf)
