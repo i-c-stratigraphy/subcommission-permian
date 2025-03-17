@@ -25,6 +25,6 @@ Tel. +86-25-83282137
 E-mail: <yczhang@nigpas.ac.cn>  
 
 ### Join Us
-If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding  and email addresses to <yczhang@nigpas.ac.cn> or <lucia.angiolini@unimi.it> 
+If you would like to join in SPS corresponding member and receive SPS Newsletter, please send your corresponding  and email addresses to <yczhang@nigpas.ac.cn> or <l.weldon@deakin.edu.au> 
 
 
