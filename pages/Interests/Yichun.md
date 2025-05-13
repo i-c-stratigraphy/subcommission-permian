@@ -7,7 +7,7 @@ permalink: /Interests/Yichun
 
 ## {{ page.title }}
 
-Please click below to see the presentation by Professor Giovanni Muttoni.
+Please click below to see the presentation by Professor Yichun Zhang.
 
 [<img src="https://stratigraphy.org/subcommission-permian/images/Yichun.JPG" alt="" style="width:300px" />](https://youtu.be/mb-FtL8aUhg)
 
