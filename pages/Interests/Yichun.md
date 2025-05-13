@@ -2,7 +2,7 @@
 layout: page
 title: "Professor Yichun Zhang's presentation:“Permian faunas and stratigraphy of the Qinghai-Tibet Plateau and adjacent regions: implications for paleogeographical evolution”"
 date: '2021-11-18'
-permalink: /Interests/Giovanni
+permalink: /Interests/Yichun
 ---
 
 ## {{ page.title }}
