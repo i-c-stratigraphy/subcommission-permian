@@ -4,6 +4,8 @@ title: "Interest to members"
 permalink: /interest
 ---
 ## Items of Interest to Members
+* [The presentation by Professor Yichun Zhang on "Permian faunas and stratigraphy of the Qinghai-Tibet Plateau and adjacent regions: 
+implications for paleogeographical evolution"](http://stratigraphy.org/subcommission-permian/Interests/Yichun)
 * [The presentation by Hana Jurikova, Lorenzo Marchetti and Michael Read on “Aspects of the Permian”](http://stratigraphy.org/subcommission-permian/Interests/new voting members)
 * [Compilation of selected papers published on Permian topics](http://stratigraphy.org/subcommission-permian/Interests/2023) [year 2023]
 * [The presentation by Professors Shuzhong Shen and Charles Henderson on "Progress, problems and perspectives for the base-Roadian and base-Wordian GSSPs"](http://stratigraphy.org/subcommission-permian/Interests/Shuzhong and Charles)
