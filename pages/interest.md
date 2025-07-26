@@ -4,6 +4,7 @@ title: "Interest to members"
 permalink: /interest
 ---
 ## Items of Interest to Members
+* [Professor Junxuan Fan's presentation:“CONOP, Horizon Sequencing, and Graph-optimized graphic correlation in Stratigraphy”](http://stratigraphy.org/subcommission-permian/Interests/Junxuan)
 * [Compilation of selected papers published on Permian topics](http://stratigraphy.org/subcommission-permian/Interests/2024) [year 2024]
 * [The presentation by Professor Yichun Zhang on "Permian faunas and stratigraphy of the Qinghai-Tibet Plateau and adjacent regions: 
 implications for paleogeographical evolution"](http://stratigraphy.org/subcommission-permian/Interests/Yichun)
