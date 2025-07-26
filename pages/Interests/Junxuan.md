@@ -9,5 +9,5 @@ permalink: /Interests/Junxuan
 
 Please click below to see the presentation by Professor Junxuan Fan and his team.
 
-[<img src="https://stratigraphy.org/subcommission-permian/images/Junxuan.JPG" alt="" style="width:300px" />](https://youtu.be/E0Zlc4rOo3c)
+[<img src="https://stratigraphy.org/subcommission-permian/images/Junxuan.jpg" alt="" style="width:300px" />](https://youtu.be/E0Zlc4rOo3c)
 
