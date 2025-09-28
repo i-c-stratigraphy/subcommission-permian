@@ -33,4 +33,10 @@ Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences
 Tel. +86-25-83282137  
 E-mail: <yczhang@nigpas.ac.cn>  
 
-
+<img src="https://stratigraphy.org/subcommission-permian/images/IRB.png" alt="" style="width:150px" />  
+**Permophiles Editor**  
+[Dr. Iván Rodríguez-Barreiro]  
+Museum of Nature South Tyrol  
+Bindergasse/Via Bottai 1, 39100 Bozen/Bolzano, Italy  
+Tel.+39 0471 416883  
+E-mail: <Ivan.RodriguezBarreiro@naturmuseum.it>  
