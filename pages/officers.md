@@ -30,12 +30,12 @@ E-mail: <mikepalyno@me.com>
 [Prof. Yichun Zhang](http://english.nigpas.cas.cn/sourcedb/yjy/201009/t20100915_644245.html)  
 Nanjing Institute of Geology and Paleontology, Chinese Academy of Sciences  
 39 East Beijing Road, Nanjing, Jiangsu 210008, P.R.China  
-Tel. +86-25-83282137  
+Tel. +86 25 83282137  
 E-mail: <yczhang@nigpas.ac.cn>  
 
 <img src="https://stratigraphy.org/subcommission-permian/images/IRB.png" alt="" style="width:150px" />  
 **Permophiles Editor**  
-[Dr. Iván Rodríguez-Barreiro]  
+**Dr. Iván Rodríguez-Barreiro**
 Museum of Nature South Tyrol  
 Bindergasse/Via Bottai 1, 39100 Bozen/Bolzano, Italy  
 Tel.+39 0471 416883  
