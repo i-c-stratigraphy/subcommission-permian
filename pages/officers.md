@@ -35,7 +35,7 @@ E-mail: <yczhang@nigpas.ac.cn>
 
 <img src="https://stratigraphy.org/subcommission-permian/images/IRB.png" alt="" style="width:150px" />  
 **Permophiles Editor**  
-**Dr. Iván Rodríguez-Barreiro**
+**Dr. Iván Rodríguez-Barreiro**  
 Museum of Nature South Tyrol  
 Bindergasse/Via Bottai 1, 39100 Bozen/Bolzano, Italy  
 Tel.+39 0471 416883  
