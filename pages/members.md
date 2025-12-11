@@ -44,12 +44,21 @@ Email: <hj43@st-andrews.ac.uk>
 **Dr Hana Jurikova** is a Research Fellow at the University of St Andrews. Hana is an isotope geochemist, with her main research focusing on palaeo-climate and palaeo-seawater reconstructions. Hana's interests also include Permian brachiopods and brachiopod biomineralisation, biodiversity patterns, the Permian-Triassic mass extinction and evaporitic deposits.   
 
 
-<img src="https://stratigraphy.org/subcommission-permian/images/Gabriela Cisterna.jpg" alt="" style="width:150px" />  
-**Gabriela A. Cristerna**  
-Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)  
-Instituto Superior de Correlación Geológica (INSUGEO)  
-Tucumán, Argentina  
-E-mail: <gabrielacisterna@conicet.gov.ar>  
+<img src="https://stratigraphy.org/subcommission-permian/images/Pauline.jpg" alt="" style="width:150px" />  
+**Dr. Paulina Sabina Kavali**  
+Bibal Sahni Institute of Palaeosciences  
+53 University Road, Lucknow, 226007 Uttar Pradesh, India  
+Email: <kpauline_sabina@bsip.res.in>  
+**Dr. Pauline Sabina Kavali** is a scientist at the Birbal Sahni Institute of Palaeosciences, Lucknow, Uttar Pradesh State, an autonomous research institute under the Department of Science and Technology, Government of India. Her research includes late Paleozoic and Mesozoic palynology of the Indian sedimentary basins with a focus on taxonomy, biostratigraphy, global correlation, paleobiogeography and palaeoclimate.  
+
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Evelyn mit.jpg" alt="" style="width:150px" />  
+**Dr. Evelyn Kustatscher**  
+Department of Natural History  
+Collection and Research Centre (SFZ)  
+Krajnc-Straße 1, A-6060 Hall in Tirol, Germany  
+Tel: +43 512 594 89-721  
+E-mail:<e.kustatscher@tiroler-landesmuseen.at>  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Sam2.jpg" alt="" style="width:150px" />  
