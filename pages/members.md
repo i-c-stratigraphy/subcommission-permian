@@ -8,7 +8,7 @@ permalink: /members
 ### Voting members
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Gabriela Cisterna.jpg" alt="" style="width:150px" />  
-**Gabriela A. Cristerna**    
+**Dr. Gabriela A. Cristerna**    
 Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)  
 Instituto Superior de Correlación Geológica (INSUGEO)  
 Tucumán, Argentina  
