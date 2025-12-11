@@ -6,6 +6,14 @@ permalink: /members
 ## Members
 
 ### Voting members
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Gabriela Cisterna.jpg" alt="" style="width:150px" />  
+**Gabriela A. Cristerna**  
+Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)
+Instituto Superior de Correlación Geológica (INSUGEO)
+Tucumán, Argentina
+E-mail: <gabrielacisterna@conicet.gov.ar>
+
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
 Department of Structural Geology and Geodynamics  
