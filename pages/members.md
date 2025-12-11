@@ -8,11 +8,12 @@ permalink: /members
 ### Voting members
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Gabriela Cisterna.jpg" alt="" style="width:150px" />  
-**Gabriela A. Cristerna**  
-Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)
-Instituto Superior de Correlación Geológica (INSUGEO)
-Tucumán, Argentina
-E-mail: <gabrielacisterna@conicet.gov.ar>
+**Gabriela A. Cristerna**    
+Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)  
+Instituto Superior de Correlación Geológica (INSUGEO)  
+Tucumán, Argentina  
+E-mail: <gabrielacisterna@conicet.gov.ar>  
+
 
 <img src="https://stratigraphy.org/subcommission-permian/images/AE Goetz.jpg" alt="" style="width:150px" />  
 **Dr. Annette Goetz**  
@@ -41,6 +42,14 @@ St Andrews, KY16 9TS,
 United Kingdom  
 Email: <hj43@st-andrews.ac.uk>  
 **Dr Hana Jurikova** is a Research Fellow at the University of St Andrews. Hana is an isotope geochemist, with her main research focusing on palaeo-climate and palaeo-seawater reconstructions. Hana's interests also include Permian brachiopods and brachiopod biomineralisation, biodiversity patterns, the Permian-Triassic mass extinction and evaporitic deposits.   
+
+
+<img src="https://stratigraphy.org/subcommission-permian/images/Gabriela Cisterna.jpg" alt="" style="width:150px" />  
+**Gabriela A. Cristerna**  
+Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)  
+Instituto Superior de Correlación Geológica (INSUGEO)  
+Tucumán, Argentina  
+E-mail: <gabrielacisterna@conicet.gov.ar>  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Sam2.jpg" alt="" style="width:150px" />  
@@ -77,24 +86,6 @@ Stephen F. Austin State University
 Tel: 936.468.2095  
 E-mail: <michael.read@sfasu.edu>  
 **Dr. Mike Read** is a lecturer at Stephen F. Austin State University in Nacogdoches, Texas, USA. His research is primarily concerned with Pennsylvanian-Permian fusulinid and conodont biostratigraphy of the North American Cordillera and correlation with Paleo-Tethyan stratigraphic successions.  
-
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Ronchi Ausonio.jpg" alt="" style="width:150px" />  
-**Prof. Ausonio Ronchi**  
-Dipartimento di Scienze della Terra e dell’Ambiente  
-Università di Pavia-Via Ferrata 1, 27100 PV, Italy  
-voice +39-0382-9858  
-E-mail: <ausonio.ronchi@unipv.it>  
-**Prof. Ausonio Ronchi** is a professor of Stratigraphy and Regional Geology at UNIPV. His main research focus is on the continental late Carboniferous to Middle Triassic successions from and W peri-Tethys (Italy, Europe and  Mediterranean regions), with chrono-biostratigraphical, palaeoecological insights and marine-nonmarine correlation.  
-
-
-<img src="https://stratigraphy.org/subcommission-permian/images/Prof. Schneider Joerg W..jpg" alt="" style="width:150px" />  
-**Prof. Joerg W. Schneider**  
-Freiberg University of Mining and Technology  
-Institute of Geology, Department of Palaeontology,  
-Bernhard-von-Cotta-Str.2, Freiberg, D-09596, Germany  
-E-mail: <schneiderj-geo@gmx.de>  
-**Prof. Joerg (“Jogi”) W. Schneider** was Professor for Palaeontology and Stratigraphy and the Head of the Department for Palaeontology and Stratigraphy Technical University Berg­aka­de­mie Freiberg; retired 2016 but still member of the university. He was the former Vice-Chair of the Subcommission on Permian Stratigraphy and leads till now the Late Carboniferous-Permian-Early Triassic Nonmarine-Marine Correlation Working Group (SCCS, SPS, STS). His primary research focus on Carboniferous, Permian and Triassic non-marine biota, taxonomy, biostratigraphy, palaeobiogeography and global correlation.  
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Ana Karina2.jpg" alt="" style="width:150px" />  
