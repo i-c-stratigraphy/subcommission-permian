@@ -24,7 +24,7 @@ E-mail: <yczhang@nigpas.ac.cn>
  or
  
 **Dr. Iván Rodríguez-Barreiro**  
-Permophiles Editor  
+_Permophiles Editor_  
 Museum of Nature South Tyrol  
 Bindergasse/Via Bottai 1, 39100 Bozen/Bolzano, Italy  
 Tel.+39 0471 416883  
