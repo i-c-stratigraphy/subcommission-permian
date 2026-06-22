@@ -131,7 +131,7 @@ E-mail: <l.weldon@deakin.edu.au>
 
 
 <img src="https://stratigraphy.org/subcommission-permian/images/Dongxun.jpg" alt="" style="width:150px" />  
-**Dr. Dongxun Yuan**  
+**Prof. Dongxun Yuan**  
 School of Resources and Geosciences  
 China University of Mining and Technology  
 1 Daxue Road, Xuzhou, Jiangsu 221116, P.R. China   
