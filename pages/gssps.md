@@ -39,7 +39,7 @@ permalink: /gssps
     </tr>    
     <tr>
         <td style="background-color:#A4CCE1;"><a href="https://stratigraphy.org/subcommission-permian/gssps/wuchiapingian-stage">Wuchiapingian Stage</a></td>
-        <td>259.51 ± 0.21</td>
+        <td>259.857 ± 0.084</td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20120927153523606.jpg">Penglaitan, Guangxi Province, South China</a></td>
         <td><a href="https://stratigraphy.org/subcommission-permian/images/20121102220912686.jpg">23.6953°N 109.3211°E</a></td>
         <td>base of Bed n6L in the newly exposed Penglaitan section</td>
