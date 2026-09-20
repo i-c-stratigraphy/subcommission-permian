@@ -36,7 +36,8 @@ E-mail: <yczhang@nigpas.ac.cn>
 <img src="https://stratigraphy.org/subcommission-permian/images/IRB.png" alt="" style="width:150px" />  
 **Permophiles Editor**  
 **Dr. Iván Rodríguez-Barreiro**  
-Museum of Nature South Tyrol  
-Bindergasse/Via Bottai 1, 39100 Bozen/Bolzano, Italy  
-Tel.+39 0471 416883  
-E-mail: <Ivan.RodriguezBarreiro@naturmuseum.it>  
+Marine Geosciences and Territorial Planning Dept. / Marine Research Center (CIM)  
+University of Vigo  
+Edificio de Ciencias Experimentais, Campus As Lagoas-Marcosende, E-36310, Vigo, Spain  
+Tel: +34 986 812 622  
+E-mail: <ivan.rodriguez.barreiro@uvigo.gal>  
